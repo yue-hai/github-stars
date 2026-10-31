@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['scripts/**', 'templates/**', 'data/curation.tsv', '.github/workflows/sync.yml']
+    paths: ['scripts/**', 'templates/**', 'data/curation.tsv', 'data/usage.tsv', '.github/workflows/sync.yml']
 permissions:
   contents: write
 concurrency:

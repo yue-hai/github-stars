@@ -22,6 +22,16 @@ def load():
         if name.casefold() in curated or category not in CATEGORIES:
             raise ValueError(f'Duplicate or invalid classification: {name}')
         curated[name.casefold()] = dict(category=category, subcategory=subcategory, summary=summary, tags=tags.split(','), note=note)
+    usage_path = ROOT / 'data/usage.tsv'
+    usage = {}
+    if usage_path.exists():
+        for line in usage_path.read_text().splitlines():
+            if not line or line.startswith('#'):
+                continue
+            name, explanation = line.split(chr(9), 1)
+            if name.casefold() in usage:
+                raise ValueError('Duplicate use case: ' + name)
+            usage[name.casefold()] = explanation
     registry_path = ROOT / 'data/identities.json'
     registry = json.loads(registry_path.read_text()) if registry_path.exists() else {}
     by_id = {}
@@ -38,6 +48,9 @@ def load():
         seen.add(r['id'])
         name = r['full_name']
         c = curated.get(name.casefold()) or by_id.get(r['id']) or dict(category='待分类', subcategory='待复核', summary=r.get('description') or '暂无说明，待人工复核', tags=[], note='新项目尚未进行中文用途审核。')
+        aliases = registry.get(str(r['id']), [])
+        scenario = usage.get(name.casefold()) or next((usage[n.casefold()] for n in reversed(aliases) if n.casefold() in usage), '')
+        c = dict(c, usage=scenario)
         status = '已归档' if r.get('archived') else '未归档'
         if name == 'leiurayer/downkyi':
             status = '停止维护'
