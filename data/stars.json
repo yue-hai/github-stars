@@ -1,0 +1,2042 @@
+{
+  "owner": "yue-hai",
+  "fetched_at": "2026-10-31T11:50:27.411598+00:00",
+  "scope": "public-stars",
+  "items": [
+    {
+      "starred_at": "2024-10-08T01:12:01Z",
+      "repo": {
+        "id": 344809,
+        "full_name": "hluk/CopyQ",
+        "html_url": "https://github.com/hluk/CopyQ",
+        "description": "Clipboard manager with advanced features",
+        "topics": [
+          "clipboard",
+          "clipboard-manager",
+          "copyq",
+          "cross-platform",
+          "scripting",
+          "tray"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C++",
+        "pushed_at": "2026-10-26T10:29:29Z",
+        "stargazers_count": 12573
+      }
+    },
+    {
+      "starred_at": "2024-08-19T08:56:41Z",
+      "repo": {
+        "id": 2096579,
+        "full_name": "markedjs/marked",
+        "html_url": "https://github.com/markedjs/marked",
+        "description": "A markdown parser and compiler. Built for speed.",
+        "topics": [
+          "commonmark",
+          "compiler",
+          "gfm",
+          "hacktoberfest",
+          "markdown",
+          "parser"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-28T02:46:03Z",
+        "stargazers_count": 37279
+      }
+    },
+    {
+      "starred_at": "2023-03-08T10:38:31Z",
+      "repo": {
+        "id": 13491895,
+        "full_name": "EbookFoundation/free-programming-books",
+        "html_url": "https://github.com/EbookFoundation/free-programming-books",
+        "description": ":books: Freely available programming books",
+        "topics": [
+          "books",
+          "education",
+          "hacktoberfest",
+          "list",
+          "resource"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-27T20:40:54Z",
+        "stargazers_count": 400586
+      }
+    },
+    {
+      "starred_at": "2023-12-18T02:46:28Z",
+      "repo": {
+        "id": 16473585,
+        "full_name": "SubtitleEdit/subtitleedit",
+        "html_url": "https://github.com/SubtitleEdit/subtitleedit",
+        "description": "the subtitle editor :)",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "C#",
+        "pushed_at": "2026-10-31T06:31:21Z",
+        "stargazers_count": 14793
+      }
+    },
+    {
+      "starred_at": "2024-08-19T08:56:06Z",
+      "repo": {
+        "id": 19544711,
+        "full_name": "sindresorhus/github-markdown-css",
+        "html_url": "https://github.com/sindresorhus/github-markdown-css",
+        "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "CSS",
+        "pushed_at": "2026-09-18T19:25:49Z",
+        "stargazers_count": 8946
+      }
+    },
+    {
+      "starred_at": "2025-07-12T13:05:19Z",
+      "repo": {
+        "id": 32484381,
+        "full_name": "ripienaar/free-for-dev",
+        "html_url": "https://github.com/ripienaar/free-for-dev",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "topics": [
+          "awesome-list",
+          "free-for-developers"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "HTML",
+        "pushed_at": "2026-10-30T10:20:21Z",
+        "stargazers_count": 140858
+      }
+    },
+    {
+      "starred_at": "2025-06-06T10:13:52Z",
+      "repo": {
+        "id": 41664725,
+        "full_name": "tvvocold/free-for-dev-zh",
+        "html_url": "https://github.com/tvvocold/free-for-dev-zh",
+        "description": "国内免费开发工具/服务清单",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2024-04-18T07:31:19Z",
+        "stargazers_count": 1706
+      }
+    },
+    {
+      "starred_at": "2023-04-29T09:31:04Z",
+      "repo": {
+        "id": 49649355,
+        "full_name": "rRemix/APlayer",
+        "html_url": "https://github.com/rRemix/APlayer",
+        "description": "Android Music Player",
+        "topics": [
+          "android",
+          "compose",
+          "musicplayer"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-10-30T22:08:13Z",
+        "stargazers_count": 1850
+      }
+    },
+    {
+      "starred_at": "2025-07-17T13:01:57Z",
+      "repo": {
+        "id": 54346799,
+        "full_name": "public-apis/public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "description": "A collective list of free APIs",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-30T16:40:39Z",
+        "stargazers_count": 493679
+      }
+    },
+    {
+      "starred_at": "2023-11-13T08:50:29Z",
+      "repo": {
+        "id": 64713769,
+        "full_name": "NickeManarin/ScreenToGif",
+        "html_url": "https://github.com/NickeManarin/ScreenToGif",
+        "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+        "topics": [
+          "editor",
+          "gif",
+          "recorder",
+          "sketchboard",
+          "video",
+          "webcam",
+          "wpf"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C#",
+        "pushed_at": "2026-10-14T15:04:38Z",
+        "stargazers_count": 27875
+      }
+    },
+    {
+      "starred_at": "2024-12-25T07:13:21Z",
+      "repo": {
+        "id": 66282276,
+        "full_name": "dyc3/steamguard-cli",
+        "html_url": "https://github.com/dyc3/steamguard-cli",
+        "description": "A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. ",
+        "topics": [
+          "2fa",
+          "gaming",
+          "linux-utility",
+          "sda",
+          "steam",
+          "steambot",
+          "steamguard-cli"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Rust",
+        "pushed_at": "2026-09-22T23:05:04Z",
+        "stargazers_count": 1079
+      }
+    },
+    {
+      "starred_at": "2024-08-23T02:02:36Z",
+      "repo": {
+        "id": 71691212,
+        "full_name": "ntop/n2n",
+        "html_url": "https://github.com/ntop/n2n",
+        "description": "Peer-to-peer VPN",
+        "topics": [
+          "peer-to-peer",
+          "vpn"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C",
+        "pushed_at": "2026-10-17T12:56:56Z",
+        "stargazers_count": 7051
+      }
+    },
+    {
+      "starred_at": "2025-08-13T01:54:17Z",
+      "repo": {
+        "id": 78483432,
+        "full_name": "TranslucentTB/TranslucentTB",
+        "html_url": "https://github.com/TranslucentTB/TranslucentTB",
+        "description": "A lightweight utility that makes the Windows taskbar translucent/transparent.",
+        "topics": [
+          "acrylic",
+          "aero",
+          "blur",
+          "customization",
+          "discord",
+          "fluent-design",
+          "gitter",
+          "taskbar",
+          "undocumented",
+          "windows",
+          "windows-10"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C++",
+        "pushed_at": "2026-10-13T19:34:25Z",
+        "stargazers_count": 20689
+      }
+    },
+    {
+      "starred_at": "2024-06-03T02:47:24Z",
+      "repo": {
+        "id": 102701262,
+        "full_name": "eritpchy/FingerprintPay",
+        "html_url": "https://github.com/eritpchy/FingerprintPay",
+        "description": "让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付",
+        "topics": [
+          "android",
+          "magisk-module",
+          "riru-module",
+          "xposed-module"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Java",
+        "pushed_at": "2026-10-31T06:22:45Z",
+        "stargazers_count": 4564
+      }
+    },
+    {
+      "starred_at": "2025-01-26T12:05:48Z",
+      "repo": {
+        "id": 111583593,
+        "full_name": "Genymobile/scrcpy",
+        "html_url": "https://github.com/Genymobile/scrcpy",
+        "description": "Display and control your Android device",
+        "topics": [
+          "android",
+          "c",
+          "ffmpeg",
+          "genyteam-system",
+          "libav",
+          "mirroring",
+          "recording",
+          "screen",
+          "sdl2"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C",
+        "pushed_at": "2026-10-26T22:10:06Z",
+        "stargazers_count": 153638
+      }
+    },
+    {
+      "starred_at": "2023-11-25T07:46:30Z",
+      "repo": {
+        "id": 162279822,
+        "full_name": "agalwood/Motrix",
+        "html_url": "https://github.com/agalwood/Motrix",
+        "description": "A full-featured download manager.",
+        "topics": [
+          "aria2",
+          "bt",
+          "download",
+          "electron",
+          "linux",
+          "mac",
+          "macos",
+          "magnet",
+          "motrix",
+          "torrent",
+          "windows"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-31T10:56:08Z",
+        "stargazers_count": 57614
+      }
+    },
+    {
+      "starred_at": "2023-09-08T02:24:23Z",
+      "repo": {
+        "id": 164058366,
+        "full_name": "m9rco/Genymotion_ARM_Translation",
+        "html_url": "https://github.com/m9rco/Genymotion_ARM_Translation",
+        "description": "Genymotion ARM translation packages: legacy Android 4.3–9.0 and experimental Android 11–14 x86_64 ARM64 bundles, with offline configuration tools and checksums.",
+        "topics": [
+          "adb",
+          "android",
+          "android-development",
+          "android-emulator",
+          "android-platform-tools",
+          "arm",
+          "arm64",
+          "armeabi-v7a",
+          "checksums",
+          "compatibility",
+          "genymotion",
+          "genymotion-translation",
+          "x86",
+          "x86-64"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-24T07:01:38Z",
+        "stargazers_count": 2349
+      }
+    },
+    {
+      "starred_at": "2025-01-09T04:36:00Z",
+      "repo": {
+        "id": 169257534,
+        "full_name": "dotnetcore/AgileConfig",
+        "html_url": "https://github.com/dotnetcore/AgileConfig",
+        "description": "基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server",
+        "topics": [
+          "agileconfig",
+          "configuration",
+          "configuration-center",
+          "configuration-management",
+          "configuration-server",
+          "dotnet-core",
+          "microservice",
+          "websocket"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C#",
+        "pushed_at": "2026-09-19T09:08:47Z",
+        "stargazers_count": 1628
+      }
+    },
+    {
+      "starred_at": "2024-09-25T02:56:11Z",
+      "repo": {
+        "id": 192654884,
+        "full_name": "biliup/biliup-app",
+        "html_url": "https://github.com/biliup/biliup-app",
+        "description": "b站全平台投稿客户端，支持多p投稿，稿件编辑",
+        "topics": [
+          "bilibili",
+          "bilibili-helper",
+          "upload"
+        ],
+        "archived": true,
+        "disabled": false,
+        "language": "Rust",
+        "pushed_at": "2025-08-21T12:52:00Z",
+        "stargazers_count": 1429
+      }
+    },
+    {
+      "starred_at": "2024-12-31T07:37:08Z",
+      "repo": {
+        "id": 196996009,
+        "full_name": "DreamLay/MyPhoneBill",
+        "html_url": "https://github.com/DreamLay/MyPhoneBill",
+        "description": "登录并获取移动联通话费数据",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2019-07-24T07:44:30Z",
+        "stargazers_count": 5
+      }
+    },
+    {
+      "starred_at": "2024-01-30T05:01:07Z",
+      "repo": {
+        "id": 214011414,
+        "full_name": "kingToolbox/WindTerm",
+        "html_url": "https://github.com/kingToolbox/WindTerm",
+        "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+        "topics": [
+          "bash",
+          "client",
+          "cmd",
+          "linux",
+          "mac",
+          "powershell",
+          "serial",
+          "sftp",
+          "shell",
+          "ssh",
+          "telnet",
+          "terminal",
+          "tmux",
+          "windows",
+          "wsl",
+          "x11",
+          "xmodem",
+          "xterm",
+          "ymodem",
+          "zmodem"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C",
+        "pushed_at": "2025-03-11T19:12:09Z",
+        "stargazers_count": 32571
+      }
+    },
+    {
+      "starred_at": "2024-07-23T04:34:07Z",
+      "repo": {
+        "id": 216103835,
+        "full_name": "v2rayA/v2rayA",
+        "html_url": "https://github.com/v2rayA/v2rayA",
+        "description": "A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.",
+        "topics": [
+          "gfw",
+          "gui",
+          "hy2",
+          "juicity",
+          "linux",
+          "shadowsocks",
+          "trojan",
+          "tuic",
+          "v2ray",
+          "xray"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2026-10-27T23:19:16Z",
+        "stargazers_count": 15779
+      }
+    },
+    {
+      "starred_at": "2023-11-02T03:08:58Z",
+      "repo": {
+        "id": 224588420,
+        "full_name": "wxbool/video-srt-windows",
+        "html_url": "https://github.com/wxbool/video-srt-windows",
+        "description": "这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。",
+        "topics": [
+          "ffmpeg",
+          "go",
+          "golang",
+          "srt-subtitles",
+          "video",
+          "windows-gui"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2023-03-10T05:03:22Z",
+        "stargazers_count": 5035
+      }
+    },
+    {
+      "starred_at": "2025-04-15T08:43:57Z",
+      "repo": {
+        "id": 233472199,
+        "full_name": "massgravel/Microsoft-Activation-Scripts",
+        "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+        "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+        "topics": [
+          "activator",
+          "hwid",
+          "kms",
+          "kms38",
+          "massgrave",
+          "massgravel",
+          "microsoft",
+          "microsoft365",
+          "office",
+          "office365",
+          "ohook",
+          "powershell",
+          "tsforge",
+          "windows",
+          "windows-10",
+          "windows-11"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Batchfile",
+        "pushed_at": "2026-10-17T01:33:16Z",
+        "stargazers_count": 197060
+      }
+    },
+    {
+      "starred_at": "2023-03-08T10:21:45Z",
+      "repo": {
+        "id": 243950408,
+        "full_name": "Anduin2017/HowToCook",
+        "html_url": "https://github.com/Anduin2017/HowToCook",
+        "description": "Programmer's guide about how to cook at home.",
+        "topics": [
+          "chinese",
+          "cookbook",
+          "cooking",
+          "dishes",
+          "recipes"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2026-10-26T14:16:34Z",
+        "stargazers_count": 103400
+      }
+    },
+    {
+      "starred_at": "2023-11-30T00:07:46Z",
+      "repo": {
+        "id": 265782973,
+        "full_name": "hlmd/Postman-cn",
+        "html_url": "https://github.com/hlmd/Postman-cn",
+        "description": "Postman汉化中文版",
+        "topics": [
+          "chinese",
+          "postman"
+        ],
+        "archived": true,
+        "disabled": false,
+        "language": "PHP",
+        "pushed_at": "2026-06-27T16:52:55Z",
+        "stargazers_count": 5620
+      }
+    },
+    {
+      "starred_at": "2024-12-08T05:35:35Z",
+      "repo": {
+        "id": 290437899,
+        "full_name": "jeessy2/ddns-go",
+        "html_url": "https://github.com/jeessy2/ddns-go",
+        "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+        "topics": [
+          "alidns",
+          "baiduyun",
+          "cloudflare",
+          "ddns",
+          "ddns-go",
+          "dnspod",
+          "porkbun"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2026-10-26T08:43:03Z",
+        "stargazers_count": 17502
+      }
+    },
+    {
+      "starred_at": "2024-06-18T05:25:56Z",
+      "repo": {
+        "id": 320785435,
+        "full_name": "LSPosed/LSPosed",
+        "html_url": "https://github.com/LSPosed/LSPosed",
+        "description": "LSPosed Framework",
+        "topics": [
+          "android",
+          "xposed"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Java",
+        "pushed_at": "2026-10-14T04:37:33Z",
+        "stargazers_count": 25272
+      }
+    },
+    {
+      "starred_at": "2023-10-23T10:39:52Z",
+      "repo": {
+        "id": 324473895,
+        "full_name": "leiurayer/downkyi",
+        "html_url": "https://github.com/leiurayer/downkyi",
+        "description": null,
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2026-07-06T02:20:42Z",
+        "stargazers_count": 24358
+      }
+    },
+    {
+      "starred_at": "2026-06-01T05:33:47Z",
+      "repo": {
+        "id": 334110599,
+        "full_name": "iDvel/rime-ice",
+        "html_url": "https://github.com/iDvel/rime-ice",
+        "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+        "topics": [
+          "rime",
+          "rime-config",
+          "rime-custom",
+          "rime-schema",
+          "rime-squirrel",
+          "rime-weasel"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Lua",
+        "pushed_at": "2026-10-31T09:27:38Z",
+        "stargazers_count": 19974
+      }
+    },
+    {
+      "starred_at": "2024-05-21T14:08:22Z",
+      "repo": {
+        "id": 355598049,
+        "full_name": "404-novel-project/novel-downloader",
+        "html_url": "https://github.com/404-novel-project/novel-downloader",
+        "description": "一个可扩展的通用型小说下载器。",
+        "topics": [
+          "novel",
+          "novel-downloader"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-30T14:35:13Z",
+        "stargazers_count": 2009
+      }
+    },
+    {
+      "starred_at": "2023-10-31T10:58:14Z",
+      "repo": {
+        "id": 367215798,
+        "full_name": "nathonius/obsidian-collapse-all",
+        "html_url": "https://github.com/nathonius/obsidian-collapse-all",
+        "description": null,
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2024-03-23T17:55:32Z",
+        "stargazers_count": 100
+      }
+    },
+    {
+      "starred_at": "2024-12-12T02:52:43Z",
+      "repo": {
+        "id": 370873536,
+        "full_name": "Sitoi/dailycheckin",
+        "html_url": "https://github.com/Sitoi/dailycheckin",
+        "description": "基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜",
+        "topics": [
+          "acfun",
+          "aliyundrive",
+          "baidu",
+          "bilibili",
+          "chatgpt",
+          "checkin",
+          "dailycheckin",
+          "docker",
+          "imaotai",
+          "iqiyi",
+          "kgqq",
+          "mimotion",
+          "pypi",
+          "python",
+          "qinglong",
+          "signin",
+          "smzdm",
+          "tieba",
+          "v2ex",
+          "youdaonote"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-07-09T08:56:15Z",
+        "stargazers_count": 8745
+      }
+    },
+    {
+      "starred_at": "2024-07-08T06:34:59Z",
+      "repo": {
+        "id": 384520418,
+        "full_name": "MaaAssistantArknights/MaaAssistantArknights",
+        "html_url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+        "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+        "topics": [
+          "arknights",
+          "computer-vision",
+          "maa"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "C++",
+        "pushed_at": "2026-10-30T22:31:22Z",
+        "stargazers_count": 24135
+      }
+    },
+    {
+      "starred_at": "2024-07-10T07:01:28Z",
+      "repo": {
+        "id": 398775329,
+        "full_name": "chenzyadb/CuprumTurbo-Scheduler",
+        "html_url": "https://github.com/chenzyadb/CuprumTurbo-Scheduler",
+        "description": "A Simple and Reliable Performance Scheduler.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Shell",
+        "pushed_at": "2026-02-27T03:05:12Z",
+        "stargazers_count": 451
+      }
+    },
+    {
+      "starred_at": "2024-06-24T04:56:07Z",
+      "repo": {
+        "id": 400137207,
+        "full_name": "iii80/NtrQQ",
+        "html_url": "https://github.com/iii80/NtrQQ",
+        "description": null,
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2024-04-15T23:45:47Z",
+        "stargazers_count": 13
+      }
+    },
+    {
+      "starred_at": "2024-12-13T06:52:50Z",
+      "repo": {
+        "id": 403115266,
+        "full_name": "qd-today/get-cookies",
+        "html_url": "https://github.com/qd-today/get-cookies",
+        "description": "一键获取 Cookies 的 Chrome/Firefox 扩展, 用于配合 QD 框架使用",
+        "topics": [
+          "chrome-extension",
+          "cookie",
+          "firefox-extension",
+          "qd"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-05-24T19:38:24Z",
+        "stargazers_count": 350
+      }
+    },
+    {
+      "starred_at": "2024-12-19T05:57:11Z",
+      "repo": {
+        "id": 405856817,
+        "full_name": "lollipopkit/flutter_server_box",
+        "html_url": "https://github.com/lollipopkit/flutter_server_box",
+        "description": "ServerBox - server status & toolbox",
+        "topics": [
+          "android",
+          "dart",
+          "flutter",
+          "ios",
+          "server",
+          "ssh",
+          "status",
+          "vps"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Dart",
+        "pushed_at": "2026-10-31T11:47:08Z",
+        "stargazers_count": 8917
+      }
+    },
+    {
+      "starred_at": "2024-12-02T02:28:29Z",
+      "repo": {
+        "id": 406987136,
+        "full_name": "wjf0214/qd-templates",
+        "html_url": "https://github.com/wjf0214/qd-templates",
+        "description": "基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。",
+        "topics": [
+          "checkin",
+          "har",
+          "qiandao",
+          "qiandao-today",
+          "templates"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2024-11-14T02:15:06Z",
+        "stargazers_count": 651
+      }
+    },
+    {
+      "starred_at": "2023-06-26T07:31:58Z",
+      "repo": {
+        "id": 419417812,
+        "full_name": "eysp/portainer-ce",
+        "html_url": "https://github.com/eysp/portainer-ce",
+        "description": "portainer-ce 2.33.x 中文汉化版docker镜像，支持X86、ARM、ARM64、Windows",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-24T12:51:44Z",
+        "stargazers_count": 939
+      }
+    },
+    {
+      "starred_at": "2023-11-16T01:15:02Z",
+      "repo": {
+        "id": 424781521,
+        "full_name": "dwj0-code/n2n-gui-for-windows",
+        "html_url": "https://github.com/dwj0-code/n2n-gui-for-windows",
+        "description": "N2N Windows管理器",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "C++",
+        "pushed_at": "2022-12-29T04:54:44Z",
+        "stargazers_count": 74
+      }
+    },
+    {
+      "starred_at": "2024-06-26T00:03:26Z",
+      "repo": {
+        "id": 427384949,
+        "full_name": "Hufe921/canvas-editor",
+        "html_url": "https://github.com/Hufe921/canvas-editor",
+        "description": "A Canvas/SVG-based rich text editor",
+        "topics": [
+          "ai",
+          "browser",
+          "canvas",
+          "canvas-editor",
+          "control",
+          "date-picker",
+          "editor",
+          "emr",
+          "latex",
+          "pdf",
+          "pdf-generation",
+          "rich-text",
+          "svg",
+          "svg-editor",
+          "typescript",
+          "vite",
+          "word",
+          "wysiwyg"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-31T06:21:05Z",
+        "stargazers_count": 5248
+      }
+    },
+    {
+      "starred_at": "2023-09-06T01:34:12Z",
+      "repo": {
+        "id": 427912321,
+        "full_name": "akhilnathe/winactivate",
+        "html_url": "https://github.com/akhilnathe/winactivate",
+        "description": "Easy-to-use Windows HWID/KMS38 Activation Script.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2021-11-12T20:23:50Z",
+        "stargazers_count": 81
+      }
+    },
+    {
+      "starred_at": "2024-10-25T02:13:01Z",
+      "repo": {
+        "id": 439070028,
+        "full_name": "cnk3x/xunlei",
+        "html_url": "https://github.com/cnk3x/xunlei",
+        "description": "提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务",
+        "topics": [
+          "docker",
+          "thunder",
+          "xlp",
+          "xunlei"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2026-09-12T20:20:53Z",
+        "stargazers_count": 2062
+      }
+    },
+    {
+      "starred_at": "2025-07-11T01:11:42Z",
+      "repo": {
+        "id": 464113799,
+        "full_name": "shufflewzc/faker2",
+        "html_url": "https://github.com/shufflewzc/faker2",
+        "description": "不破楼兰终不还",
+        "topics": [
+          "qinglong"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-09-14T06:49:50Z",
+        "stargazers_count": 2925
+      }
+    },
+    {
+      "starred_at": "2023-10-31T10:52:29Z",
+      "repo": {
+        "id": 470934839,
+        "full_name": "guopenghui/obsidian-quiet-outline",
+        "html_url": "https://github.com/guopenghui/obsidian-quiet-outline",
+        "description": "Improving experience of outline in Obsidian",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-30T14:17:14Z",
+        "stargazers_count": 596
+      }
+    },
+    {
+      "starred_at": "2023-03-08T10:36:35Z",
+      "repo": {
+        "id": 482152820,
+        "full_name": "geekan/HowToLiveLonger",
+        "html_url": "https://github.com/geekan/HowToLiveLonger",
+        "description": "A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.",
+        "topics": [
+          "github-pages",
+          "health",
+          "livelonger",
+          "longevity",
+          "multilingual",
+          "programmer"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "HTML",
+        "pushed_at": "2026-10-22T05:56:54Z",
+        "stargazers_count": 35852
+      }
+    },
+    {
+      "starred_at": "2025-02-13T08:57:07Z",
+      "repo": {
+        "id": 483168056,
+        "full_name": "tsxcw/oneNav",
+        "html_url": "https://github.com/tsxcw/oneNav",
+        "description": null,
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2022-04-30T12:30:18Z",
+        "stargazers_count": 4
+      }
+    },
+    {
+      "starred_at": "2024-12-11T00:38:45Z",
+      "repo": {
+        "id": 486603129,
+        "full_name": "wes-lin/Cloud189Checkin",
+        "html_url": "https://github.com/wes-lin/Cloud189Checkin",
+        "description": "天翼网盘自动签到",
+        "topics": [
+          "189cloud"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-23T07:58:41Z",
+        "stargazers_count": 751
+      }
+    },
+    {
+      "starred_at": "2023-10-08T13:23:20Z",
+      "repo": {
+        "id": 491782606,
+        "full_name": "Licoy/fetch-github-hosts",
+        "html_url": "https://github.com/Licoy/fetch-github-hosts",
+        "description": "🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes",
+        "topics": [
+          "github",
+          "github-hosts",
+          "hosts",
+          "hosts-tool",
+          "sync-hosts"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "HTML",
+        "pushed_at": "2026-08-26T02:28:29Z",
+        "stargazers_count": 1547
+      }
+    },
+    {
+      "starred_at": "2025-08-30T14:00:09Z",
+      "repo": {
+        "id": 500719319,
+        "full_name": "MetaCubeX/ClashMetaForAndroid",
+        "html_url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+        "description": "A rule-based tunnel for Android.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-10-30T09:30:31Z",
+        "stargazers_count": 48691
+      }
+    },
+    {
+      "starred_at": "2023-09-08T02:23:35Z",
+      "repo": {
+        "id": 513217098,
+        "full_name": "WeNeedHome/SummaryOfLoanSuspension",
+        "html_url": "https://github.com/WeNeedHome/SummaryOfLoanSuspension",
+        "description": "全国各省市停贷通知汇总",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "HTML",
+        "pushed_at": "2024-07-13T02:44:33Z",
+        "stargazers_count": 20333
+      }
+    },
+    {
+      "starred_at": "2025-09-24T00:18:19Z",
+      "repo": {
+        "id": 534938681,
+        "full_name": "zhihulite/Hydrogen",
+        "html_url": "https://github.com/zhihulite/Hydrogen",
+        "description": "一个基于luajvm开发的第三方知乎安卓客户端",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Lua",
+        "pushed_at": "2026-09-10T14:03:23Z",
+        "stargazers_count": 1807
+      }
+    },
+    {
+      "starred_at": "2023-09-04T04:53:09Z",
+      "repo": {
+        "id": 557943202,
+        "full_name": "Ponderfly/GoogleTranslateIpCheck",
+        "html_url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+        "description": "扫描国内可用的谷歌翻译IP",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "C#",
+        "pushed_at": "2026-10-25T04:37:35Z",
+        "stargazers_count": 5120
+      }
+    },
+    {
+      "starred_at": "2024-12-30T03:14:35Z",
+      "repo": {
+        "id": 559552218,
+        "full_name": "BNDou/Auto_Check_In",
+        "html_url": "https://github.com/BNDou/Auto_Check_In",
+        "description": "每日自动签到集合 | 掌上飞车 | 夸克网盘 | 人人视频 | 小米运动 | LaTeX工作室",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-05-14T12:44:03Z",
+        "stargazers_count": 484
+      }
+    },
+    {
+      "starred_at": "2023-09-05T00:18:46Z",
+      "repo": {
+        "id": 562026178,
+        "full_name": "GoodCoder666/GoogleTranslate_IPFinder",
+        "html_url": "https://github.com/GoodCoder666/GoogleTranslate_IPFinder",
+        "description": "谷歌翻译API服务器的IP扫描、测速工具。/ An IP scanner and speed testing tool for the Google Translate API server.",
+        "topics": [
+          "google-translate",
+          "hosts",
+          "ip"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-27T15:00:54Z",
+        "stargazers_count": 1845
+      }
+    },
+    {
+      "starred_at": "2025-08-16T13:08:43Z",
+      "repo": {
+        "id": 572302993,
+        "full_name": "vikiboss/60s",
+        "html_url": "https://github.com/vikiboss/60s",
+        "description": "⏰ 60s API 免费接口。每天 60 秒看世界、奥运奖牌榜、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署",
+        "topics": [
+          "60s",
+          "api",
+          "bilibili",
+          "bing",
+          "bun",
+          "cloudflare-workers",
+          "deno",
+          "docker",
+          "entertainment",
+          "fun",
+          "news",
+          "today-in-history",
+          "typescript",
+          "weibo",
+          "youdao"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-28T03:01:45Z",
+        "stargazers_count": 5873
+      }
+    },
+    {
+      "starred_at": "2026-03-12T03:11:55Z",
+      "repo": {
+        "id": 575865240,
+        "full_name": "AstrBotDevs/AstrBot",
+        "html_url": "https://github.com/AstrBotDevs/AstrBot",
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+        "topics": [
+          "agent",
+          "ai",
+          "astrbot",
+          "chatbot",
+          "chatgpt",
+          "discord",
+          "docker",
+          "gemini",
+          "gpt",
+          "llama",
+          "llm",
+          "mcp",
+          "openai",
+          "python",
+          "qq",
+          "qqbot",
+          "telegram"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-31T11:21:36Z",
+        "stargazers_count": 45195
+      }
+    },
+    {
+      "starred_at": "2026-06-30T00:46:28Z",
+      "repo": {
+        "id": 599524116,
+        "full_name": "SillyTavern/SillyTavern",
+        "html_url": "https://github.com/SillyTavern/SillyTavern",
+        "description": "LLM Frontend for Power Users.",
+        "topics": [
+          "ai",
+          "chat",
+          "llm"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-02T22:05:54Z",
+        "stargazers_count": 35149
+      }
+    },
+    {
+      "starred_at": "2023-09-07T07:39:56Z",
+      "repo": {
+        "id": 611618121,
+        "full_name": "LiLittleCat/awesome-free-chatgpt",
+        "html_url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
+        "description": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. ",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "chat",
+          "chatgpt",
+          "free",
+          "freechatgpt"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-06-23T12:16:37Z",
+        "stargazers_count": 21347
+      }
+    },
+    {
+      "starred_at": "2025-03-11T00:41:11Z",
+      "repo": {
+        "id": 612344730,
+        "full_name": "ChatGPTNextWeb/NextChat",
+        "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
+        "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
+        "topics": [
+          "calclaude",
+          "claude",
+          "cross-platform",
+          "desktop",
+          "fe",
+          "gemini",
+          "gemini-pro",
+          "gemini-server",
+          "gemini-ultra",
+          "gpt-4o",
+          "groq",
+          "nextjs",
+          "ollama",
+          "react",
+          "tauri",
+          "tauri-app",
+          "vercel",
+          "webui"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-20T10:19:31Z",
+        "stargazers_count": 88930
+      }
+    },
+    {
+      "starred_at": "2024-12-19T05:57:19Z",
+      "repo": {
+        "id": 614794508,
+        "full_name": "lollipopkit/server_box_monitor",
+        "html_url": "https://github.com/lollipopkit/server_box_monitor",
+        "description": "ServerBox on server end.",
+        "topics": [
+          "push-notifications",
+          "server",
+          "status",
+          "vps"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2025-09-04T12:07:48Z",
+        "stargazers_count": 262
+      }
+    },
+    {
+      "starred_at": "2024-05-17T01:37:55Z",
+      "repo": {
+        "id": 634981386,
+        "full_name": "Androidacy/MagiskModuleManager",
+        "html_url": "https://github.com/Androidacy/MagiskModuleManager",
+        "description": "Previously known as Fox's Magisk Module Manager (FoxMMM), this app helps users find, install \"Magisk Modules\" - powerful little zips/apps for your device that plug into the Magisk framework.",
+        "topics": [
+          "android",
+          "android-application",
+          "magisk",
+          "magisk-manager",
+          "root"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-04-09T19:36:46Z",
+        "stargazers_count": 1241
+      }
+    },
+    {
+      "starred_at": "2024-07-30T08:53:19Z",
+      "repo": {
+        "id": 651026787,
+        "full_name": "caoaolong/coding-soul-docs",
+        "html_url": "https://github.com/caoaolong/coding-soul-docs",
+        "description": "CodingSoul系列课程文档",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Java",
+        "pushed_at": "2026-02-21T16:37:23Z",
+        "stargazers_count": 72
+      }
+    },
+    {
+      "starred_at": "2024-12-17T06:05:43Z",
+      "repo": {
+        "id": 658186835,
+        "full_name": "fengwenhua/hifini_sign_in",
+        "html_url": "https://github.com/fengwenhua/hifini_sign_in",
+        "description": "hifini - 音乐磁场 青龙自动签到脚本",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-09-14T16:05:32Z",
+        "stargazers_count": 65
+      }
+    },
+    {
+      "starred_at": "2023-11-25T13:02:05Z",
+      "repo": {
+        "id": 666300276,
+        "full_name": "Richasy/Bili.Copilot",
+        "html_url": "https://github.com/Richasy/Bili.Copilot",
+        "description": "B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用",
+        "topics": [
+          "bilibili",
+          "windows-app-sdk",
+          "winui3"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "GLSL",
+        "pushed_at": "2025-11-26T04:29:26Z",
+        "stargazers_count": 5217
+      }
+    },
+    {
+      "starred_at": "2023-09-22T07:11:03Z",
+      "repo": {
+        "id": 676676006,
+        "full_name": "lllyasviel/Fooocus",
+        "html_url": "https://github.com/lllyasviel/Fooocus",
+        "description": "Focus on prompting and generating",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-12-01T19:17:07Z",
+        "stargazers_count": 53770
+      }
+    },
+    {
+      "starred_at": "2024-09-01T05:37:34Z",
+      "repo": {
+        "id": 678716433,
+        "full_name": "chen08209/FlClash",
+        "html_url": "https://github.com/chen08209/FlClash",
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "topics": [
+          "clash",
+          "clash-meta",
+          "flutter",
+          "hysteria",
+          "multi-platform",
+          "proxy",
+          "v2ray",
+          "vless",
+          "vpn"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Dart",
+        "pushed_at": "2026-10-24T05:53:06Z",
+        "stargazers_count": 60010
+      }
+    },
+    {
+      "starred_at": "2024-02-29T11:00:27Z",
+      "repo": {
+        "id": 712708365,
+        "full_name": "SoftMeng/Fooocus-zh",
+        "html_url": "https://github.com/SoftMeng/Fooocus-zh",
+        "description": "Fooocus 汉化补丁 #Fooocus",
+        "topics": [
+          "fooocus",
+          "stable-diffusion"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2024-07-28T12:19:48Z",
+        "stargazers_count": 113
+      }
+    },
+    {
+      "starred_at": "2025-04-25T07:15:23Z",
+      "repo": {
+        "id": 719646468,
+        "full_name": "CrossPaste/crosspaste-desktop",
+        "html_url": "https://github.com/CrossPaste/crosspaste-desktop",
+        "description": "Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in.",
+        "topics": [
+          "cli",
+          "clipboard",
+          "clipboard-history",
+          "clipboard-manager",
+          "clips",
+          "compose-desktop",
+          "copy-paste",
+          "cross-platform",
+          "desktop-application",
+          "end-to-end-encryption",
+          "kotlin-multiplatform",
+          "local-first",
+          "mcp",
+          "model-context-protocol",
+          "ocr",
+          "p2p",
+          "paste",
+          "pasteboard",
+          "privacy",
+          "sync"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-10-30T02:01:11Z",
+        "stargazers_count": 2680
+      }
+    },
+    {
+      "starred_at": "2025-04-03T10:24:38Z",
+      "repo": {
+        "id": 730033775,
+        "full_name": "joanrod/star-vector",
+        "html_url": "https://github.com/joanrod/star-vector",
+        "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
+        "topics": [
+          "llm",
+          "multimodal-large-language-models",
+          "svg",
+          "vlm"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-11-07T20:31:24Z",
+        "stargazers_count": 4632
+      }
+    },
+    {
+      "starred_at": "2025-07-03T09:47:13Z",
+      "repo": {
+        "id": 734556064,
+        "full_name": "yclown/ql_jd_cookie",
+        "html_url": "https://github.com/yclown/ql_jd_cookie",
+        "description": "青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "C#",
+        "pushed_at": "2026-09-23T05:38:25Z",
+        "stargazers_count": 729
+      }
+    },
+    {
+      "starred_at": "2025-01-17T06:40:31Z",
+      "repo": {
+        "id": 743140652,
+        "full_name": "dockur/windows",
+        "html_url": "https://github.com/dockur/windows",
+        "description": "Windows inside a Docker container.",
+        "topics": [
+          "docker",
+          "docker-container",
+          "virtualization",
+          "windows",
+          "windows-virtual-desktop",
+          "windows-virtual-machine",
+          "windows-virtual-machines",
+          "windows-vm"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Shell",
+        "pushed_at": "2026-10-08T01:44:45Z",
+        "stargazers_count": 53936
+      }
+    },
+    {
+      "starred_at": "2025-07-10T08:10:58Z",
+      "repo": {
+        "id": 769208564,
+        "full_name": "zhuoyanzhe/AutoUpdateJdCookie",
+        "html_url": "https://github.com/zhuoyanzhe/AutoUpdateJdCookie",
+        "description": "自用青龙面板辅助工具，用于自动登录JD获取京东COOKIE更新青龙面板",
+        "topics": [
+          "jdcookie",
+          "linux",
+          "playwright-python",
+          "python",
+          "qinglong"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-10-22T02:37:00Z",
+        "stargazers_count": 782
+      }
+    },
+    {
+      "starred_at": "2025-01-07T04:39:26Z",
+      "repo": {
+        "id": 777721566,
+        "full_name": "NapNeko/NapCatQQ",
+        "html_url": "https://github.com/NapNeko/NapCatQQ",
+        "description": "Modern protocol-side framework based on NTQQ",
+        "topics": [
+          "napcat",
+          "ncqq",
+          "ntqq",
+          "onebot",
+          "onebot11"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-30T07:06:17Z",
+        "stargazers_count": 12068
+      }
+    },
+    {
+      "starred_at": "2025-01-07T04:44:35Z",
+      "repo": {
+        "id": 777780359,
+        "full_name": "NapNeko/NapCat-Docker",
+        "html_url": "https://github.com/NapNeko/NapCat-Docker",
+        "description": "NapCat-Docker",
+        "topics": [
+          "napcat"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Shell",
+        "pushed_at": "2026-10-30T05:40:05Z",
+        "stargazers_count": 823
+      }
+    },
+    {
+      "starred_at": "2025-03-04T00:55:13Z",
+      "repo": {
+        "id": 780406219,
+        "full_name": "Ren-Boo/QiDianDuShu",
+        "html_url": "https://github.com/Ren-Boo/QiDianDuShu",
+        "description": "搬运自 https://www.52pojie.cn/thread-1820936-1-1.html (出处: 吾爱破解论坛)",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2024-11-21T02:17:34Z",
+        "stargazers_count": 36
+      }
+    },
+    {
+      "starred_at": "2024-12-07T02:31:52Z",
+      "repo": {
+        "id": 787288022,
+        "full_name": "coracoo/awesome_docker_cn",
+        "html_url": "https://github.com/coracoo/awesome_docker_cn",
+        "description": "上百款可docker部署的项目，包含项目地址、项目部署教程等。",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2025-12-23T07:29:26Z",
+        "stargazers_count": 3694
+      }
+    },
+    {
+      "starred_at": "2024-12-30T08:59:09Z",
+      "repo": {
+        "id": 799072729,
+        "full_name": "Cp0204/ChinaTelecomMonitor",
+        "html_url": "https://github.com/Cp0204/ChinaTelecomMonitor",
+        "description": "中国电信 话费、通话、流量 套餐用量监控，支持青龙，支持 Docker 部署成 API 服务。",
+        "topics": [
+          "docker",
+          "qinglong",
+          "telecom"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-01T08:12:19Z",
+        "stargazers_count": 334
+      }
+    },
+    {
+      "starred_at": "2026-06-01T02:37:33Z",
+      "repo": {
+        "id": 805199381,
+        "full_name": "gurecn/YuyanIme",
+        "html_url": "https://github.com/gurecn/YuyanIme",
+        "description": "语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法",
+        "topics": [
+          "double-pinyin",
+          "ime",
+          "input-method",
+          "keyboard",
+          "pinyin",
+          "qwerty",
+          "rime",
+          "t9"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-09-28T06:08:51Z",
+        "stargazers_count": 3741
+      }
+    },
+    {
+      "starred_at": "2024-07-08T09:36:39Z",
+      "repo": {
+        "id": 818684652,
+        "full_name": "MRepoApp/magisk-modules-alt-repo",
+        "html_url": "https://github.com/MRepoApp/magisk-modules-alt-repo",
+        "description": "A mirror of Magisk Modules Alt Repo",
+        "topics": [],
+        "archived": true,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2024-07-01T21:13:48Z",
+        "stargazers_count": 59
+      }
+    },
+    {
+      "starred_at": "2024-10-31T02:27:12Z",
+      "repo": {
+        "id": 828841939,
+        "full_name": "dr34m-cn/taosync",
+        "html_url": "https://github.com/dr34m-cn/taosync",
+        "description": "TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-23T01:17:37Z",
+        "stargazers_count": 1563
+      }
+    },
+    {
+      "starred_at": "2025-11-25T00:35:58Z",
+      "repo": {
+        "id": 828972950,
+        "full_name": "hotheadhacker/awesome-selfhost-docker",
+        "html_url": "https://github.com/hotheadhacker/awesome-selfhost-docker",
+        "description": "🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "HTML",
+        "pushed_at": "2026-10-12T17:37:14Z",
+        "stargazers_count": 4124
+      }
+    },
+    {
+      "starred_at": "2025-02-12T07:52:24Z",
+      "repo": {
+        "id": 833051953,
+        "full_name": "dongyubin/DockerHub",
+        "html_url": "https://github.com/dongyubin/DockerHub",
+        "description": "2026年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器",
+        "topics": [
+          "cloudflare",
+          "docker",
+          "docker-image",
+          "docker-registry",
+          "dockerhub",
+          "proxy"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2026-06-13T12:44:49Z",
+        "stargazers_count": 9814
+      }
+    },
+    {
+      "starred_at": "2024-12-27T00:09:41Z",
+      "repo": {
+        "id": 842102124,
+        "full_name": "gnmyt/Nexterm",
+        "html_url": "https://github.com/gnmyt/Nexterm",
+        "description": "The open source server management software for SSH, VNC & RDP",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-31T04:56:17Z",
+        "stargazers_count": 5118
+      }
+    },
+    {
+      "starred_at": "2024-12-23T02:33:30Z",
+      "repo": {
+        "id": 854347601,
+        "full_name": "XiaoMi/ha_xiaomi_home",
+        "html_url": "https://github.com/XiaoMi/ha_xiaomi_home",
+        "description": "Xiaomi Home Integration for Home Assistant",
+        "topics": [
+          "home-assistant",
+          "home-assistant-integration",
+          "miot",
+          "miot-devices",
+          "smart-home",
+          "xiaomi",
+          "xiaomi-smart-home"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-09-28T06:45:47Z",
+        "stargazers_count": 22291
+      }
+    },
+    {
+      "starred_at": "2024-12-08T03:10:23Z",
+      "repo": {
+        "id": 870444517,
+        "full_name": "Aijiaobin/Cloud189Checkin",
+        "html_url": "https://github.com/Aijiaobin/Cloud189Checkin",
+        "description": "天翼网盘自动签到青龙",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2025-04-20T03:42:04Z",
+        "stargazers_count": 16
+      }
+    },
+    {
+      "starred_at": "2026-09-06T05:46:24Z",
+      "repo": {
+        "id": 896335270,
+        "full_name": "punkpeye/awesome-mcp-servers",
+        "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "topics": [
+          "ai",
+          "mcp"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2026-10-23T18:57:44Z",
+        "stargazers_count": 97108
+      }
+    },
+    {
+      "starred_at": "2025-03-10T02:23:04Z",
+      "repo": {
+        "id": 923011949,
+        "full_name": "igromanru/Helldivers-2-Highlight-Samples",
+        "html_url": "https://github.com/igromanru/Helldivers-2-Highlight-Samples",
+        "description": "Helldivers 2 Highlight Samples Mod by unknown author",
+        "topics": [],
+        "archived": true,
+        "disabled": false,
+        "language": null,
+        "pushed_at": "2025-12-04T18:13:14Z",
+        "stargazers_count": 4
+      }
+    },
+    {
+      "starred_at": "2025-06-20T01:00:03Z",
+      "repo": {
+        "id": 978676328,
+        "full_name": "FNOSP/fnnas-api",
+        "html_url": "https://github.com/FNOSP/fnnas-api",
+        "description": "飞牛NAS网页API",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2025-11-14T05:00:45Z",
+        "stargazers_count": 46
+      }
+    },
+    {
+      "starred_at": "2025-08-16T13:04:53Z",
+      "repo": {
+        "id": 985326979,
+        "full_name": "Lake1059/FFmpegFreeUI",
+        "html_url": "https://github.com/Lake1059/FFmpegFreeUI",
+        "description": "3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。",
+        "topics": [
+          "audio",
+          "audio-processing",
+          "ffmpeg",
+          "ffmpeg-gui",
+          "ffmpeg-windows",
+          "media-converter",
+          "video",
+          "video-processing"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Visual Basic .NET",
+        "pushed_at": "2026-10-29T04:04:55Z",
+        "stargazers_count": 8474
+      }
+    },
+    {
+      "starred_at": "2025-06-12T10:37:10Z",
+      "repo": {
+        "id": 1000524955,
+        "full_name": "OpenListTeam/OpenList",
+        "html_url": "https://github.com/OpenListTeam/OpenList",
+        "description": "A new AList Fork to Anti Trust Crisis",
+        "topics": [
+          "alist",
+          "aliyunpan",
+          "baidupan",
+          "openlist"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Go",
+        "pushed_at": "2026-10-31T05:42:09Z",
+        "stargazers_count": 25394
+      }
+    },
+    {
+      "starred_at": "2026-10-28T12:59:35Z",
+      "repo": {
+        "id": 1009221348,
+        "full_name": "codewec/dashlit",
+        "html_url": "https://github.com/codewec/dashlit",
+        "description": "A fast, modern, self-hosted home for links, tools, and service status",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Svelte",
+        "pushed_at": "2026-09-27T15:33:56Z",
+        "stargazers_count": 476
+      }
+    },
+    {
+      "starred_at": "2026-03-12T04:48:02Z",
+      "repo": {
+        "id": 1147094660,
+        "full_name": "HKUDS/nanobot",
+        "html_url": "https://github.com/HKUDS/nanobot",
+        "description": "Your lightweight open-source personal agent.",
+        "topics": [
+          "agent-framework",
+          "ai-agent",
+          "ai-agents",
+          "chatbot",
+          "chatops",
+          "discord-bot",
+          "llm-agents",
+          "llms",
+          "local-llm",
+          "mcp",
+          "model-context-protocol",
+          "multi-agent",
+          "openai-compatible",
+          "openclaw",
+          "personal-ai-assistant",
+          "python",
+          "self-hosted",
+          "telegram-bot-ai-assistant",
+          "webui",
+          "workflow-automation"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Python",
+        "pushed_at": "2026-10-31T03:55:14Z",
+        "stargazers_count": 49697
+      }
+    },
+    {
+      "starred_at": "2026-03-09T01:07:38Z",
+      "repo": {
+        "id": 1154094924,
+        "full_name": "Aliothmoon/MAA-Meow",
+        "html_url": "https://github.com/Aliothmoon/MAA-Meow",
+        "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Kotlin",
+        "pushed_at": "2026-10-30T16:44:41Z",
+        "stargazers_count": 1743
+      }
+    },
+    {
+      "starred_at": "2026-08-26T06:23:12Z",
+      "repo": {
+        "id": 1248194723,
+        "full_name": "AprilNEA/OpenLogi",
+        "html_url": "https://github.com/AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "topics": [
+          "dpi",
+          "gpui",
+          "hid",
+          "hidpp",
+          "local-first",
+          "logitech",
+          "logitech-mouse",
+          "logitech-options",
+          "mouse-remapping",
+          "mx-master",
+          "privacy",
+          "rust",
+          "smartshift"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "Rust",
+        "pushed_at": "2026-10-31T10:56:29Z",
+        "stargazers_count": 24698
+      }
+    },
+    {
+      "starred_at": "2026-08-25T02:15:38Z",
+      "repo": {
+        "id": 1253482587,
+        "full_name": "xbeeant/downstash",
+        "html_url": "https://github.com/xbeeant/downstash",
+        "description": "A local development server that mocks the QStash API for fast, offline testing.",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-07-10T01:43:50Z",
+        "stargazers_count": 8
+      }
+    },
+    {
+      "starred_at": "2026-08-19T11:36:04Z",
+      "repo": {
+        "id": 1333065091,
+        "full_name": "deepseek-ai/deepseek-harness",
+        "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+        "description": "DeepSeek Harness: Everything is a Plugin.",
+        "topics": [
+          "ai-agents",
+          "cordis",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-30T06:54:11Z",
+        "stargazers_count": 267080
+      }
+    },
+    {
+      "starred_at": "2026-09-08T00:09:21Z",
+      "repo": {
+        "id": 1333175049,
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "archived": false,
+        "disabled": false,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-30T23:21:26Z",
+        "stargazers_count": 21724
+      }
+    },
+    {
+      "starred_at": "2026-10-19T01:08:25Z",
+      "repo": {
+        "id": 1418517344,
+        "full_name": "TG-Twilight/c001apk",
+        "html_url": "https://github.com/TG-Twilight/c001apk",
+        "description": "一个轻量的非官方酷安客户端",
+        "topics": [],
+        "archived": false,
+        "disabled": false,
+        "language": "Dart",
+        "pushed_at": "2026-10-30T07:07:45Z",
+        "stargazers_count": 787
+      }
+    }
+  ]
+}

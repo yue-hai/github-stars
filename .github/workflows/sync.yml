@@ -1,0 +1,35 @@
+name: Sync public Stars
+on:
+  schedule:
+    - cron: '17 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'templates/**', 'data/curation.tsv', '.github/workflows/sync.yml']
+permissions:
+  contents: write
+concurrency:
+  group: star-library-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Test, sync, and build
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 scripts/sync.py
+          python3 scripts/build.py
+      - name: Commit effective changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md index.html data/stars.json data/catalog.json data/history.json data/identities.json
+          if ! git diff --cached --quiet; then
+            git commit -m "同步公开收藏与分类目录"
+            git push
+          fi

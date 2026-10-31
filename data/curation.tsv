@@ -1,0 +1,101 @@
+# 仓库	主分类	子分类	中文用途	标签	补充说明
+codewec/dashlit	服务器与自托管	导航与文件服务	自托管链接导航、工具入口与服务状态首页	导航,自托管	—
+TG-Twilight/c001apk	日常应用与效率	社区客户端	轻量的第三方酷安 Android 客户端	Android,酷安	—
+awesome-dsh-plugin/awesome-dsh-plugin	AI 与智能助手	Agent 与扩展	DeepSeek Harness 插件精选清单	DSH,资源清单	—
+punkpeye/awesome-mcp-servers	AI 与智能助手	Agent 与扩展	MCP 服务资源清单，查找 AI 外部工具集成	MCP,资源清单	—
+AprilNEA/OpenLogi	设备与系统增强	桌面与外设	罗技鼠标按键、DPI 和滚轮行为配置工具	罗技,鼠标,本地优先	—
+xbeeant/downstash	开发与技术资源	开发工具与组件	本地模拟 QStash API，便于离线开发测试	API,测试	—
+deepseek-ai/deepseek-harness	AI 与智能助手	Agent 与扩展	基于插件体系的 AI Agent 工作环境	DSH,Agent	—
+SillyTavern/SillyTavern	AI 与智能助手	聊天客户端	面向深度用户的大语言模型聊天前端	LLM,聊天	—
+iDvel/rime-ice	日常应用与效率	输入法与笔记	Rime 雾凇拼音配置与简体中文词库	Rime,拼音	—
+gurecn/YuyanIme	日常应用与效率	输入法与笔记	基于 Rime 的语燕输入法，支持九键等输入布局	Android,Rime	—
+HKUDS/nanobot	AI 与智能助手	Agent 与扩展	轻量级开源个人 AI Agent	Agent,自托管	—
+AstrBotDevs/AstrBot	AI 与智能助手	Agent 与扩展	连接多种聊天平台的 AI 助手及插件开发框架	机器人,QQ,MCP	—
+Aliothmoon/MAA-Meow	游戏与生活参考	游戏工具	明日方舟 MAA Android 版日常任务助手	Android,明日方舟	—
+hotheadhacker/awesome-selfhost-docker	服务器与自托管	部署资源与容器	可通过 Docker 部署的自托管项目清单	Docker,资源清单	—
+zhihulite/Hydrogen	日常应用与效率	社区客户端	基于 LuaJVM 的第三方知乎 Android 客户端	Android,知乎	—
+MetaCubeX/ClashMetaForAndroid	网络与连接	代理客户端	Android 平台基于规则的网络代理客户端	Android,Clash	—
+vikiboss/60s	开发与技术资源	API 与免费资源	新闻、热搜、天气等公共信息 API 集合	API,自托管	—
+Lake1059/FFmpegFreeUI	媒体与内容处理	音视频与字幕	Windows 上的 FFmpeg 图形界面，用于转码和压制视频	Windows,FFmpeg	—
+TranslucentTB/TranslucentTB	设备与系统增强	桌面与外设	Windows 任务栏透明与模糊效果工具	Windows,美化	—
+public-apis/public-apis	开发与技术资源	API 与免费资源	按主题收集的免费公共 API 目录	API,资源清单	—
+ripienaar/free-for-dev	开发与技术资源	API 与免费资源	开发者可用的免费额度云服务清单	云服务,资源清单	—
+shufflewzc/faker2	签到与平台自动化	签到与日常任务	配合青龙使用的日常任务和签到脚本集合	青龙,签到	README 已核对；未运行脚本，不保证平台兼容或账号安全。
+zhuoyanzhe/AutoUpdateJdCookie	签到与平台自动化	Cookie 与模板	自动登录京东并更新青龙面板 Cookie 的辅助工具	京东,Cookie,青龙	涉及账户凭据，使用前需自行审查。
+yclown/ql_jd_cookie	签到与平台自动化	Cookie 与模板	获取京东 Cookie 并发送到青龙的桌面工具	京东,Cookie,青龙	涉及账户凭据，使用前需自行审查。
+FNOSP/fnnas-api	服务器与自托管	导航与文件服务	飞牛 NAS 网页接口相关项目	NAS,API	—
+OpenListTeam/OpenList	服务器与自托管	导航与文件服务	多存储文件列表服务，AList 分支项目	网盘,自托管	—
+tvvocold/free-for-dev-zh	开发与技术资源	API 与免费资源	国内免费开发工具与服务清单	资源清单,中文	—
+CrossPaste/crosspaste-desktop	日常应用与效率	剪贴板与跨设备	跨平台局域网剪贴板同步，支持端到端加密	剪贴板,跨设备	—
+massgravel/Microsoft-Activation-Scripts	设备与系统增强	系统授权相关	Windows 与 Office 激活及故障排查脚本	Windows,Office	涉及软件授权，需核对合法许可；本目录不提供激活操作。
+joanrod/star-vector	AI 与智能助手	图像与 SVG	将图像或文字转换为 SVG 代码的视觉语言模型	SVG,生成模型	—
+ChatGPTNextWeb/NextChat	AI 与智能助手	聊天客户端	跨平台 AI 聊天客户端及 Web 前端	LLM,聊天	—
+igromanru/Helldivers-2-Highlight-Samples	游戏与生活参考	游戏工具	绝地潜兵 2 样本高亮 Mod 收藏	游戏,Mod	仓库已归档；使用前核对游戏规则和兼容性。
+Ren-Boo/QiDianDuShu	签到与平台自动化	签到与日常任务	起点读书福利与日常操作自动化脚本	起点读书,Android	README 已核对；不是小说阅读客户端。自动化存在平台限制与账号风险。
+tsxcw/oneNav	服务器与自托管	导航与文件服务	oneNav 导航页面项目	导航,网页	README 已核对；不要与其他同名导航项目混淆。
+dongyubin/DockerHub	服务器与自托管	部署资源与容器	Docker Hub 镜像源和加速服务资料汇总	Docker,镜像源	可用性未逐一实测，说明中的日期不代表验证日期。
+Genymobile/scrcpy	设备与系统增强	Android 与模块	显示和控制 Android 设备屏幕	Android,投屏	—
+dockur/windows	服务器与自托管	部署资源与容器	通过 Docker 环境运行 Windows 虚拟机	Docker,Windows,虚拟化	—
+dotnetcore/AgileConfig	开发与技术资源	开发工具与组件	基于 .NET Core 的轻量级分布式配置中心	.NET,配置管理	—
+NapNeko/NapCat-Docker	通讯与机器人	QQ 接入与增强	NapCat 的 Docker 部署项目	QQ,OneBot,Docker	与 NapCatQQ 配套，不是独立 AI 助手。
+NapNeko/NapCatQQ	通讯与机器人	QQ 接入与增强	基于 NTQQ 的协议端框架，提供 OneBot 接入	QQ,OneBot	第三方协议接入需注意账号与平台限制。
+DreamLay/MyPhoneBill	签到与平台自动化	话费与用量监控	登录并获取移动、联通话费数据	移动,联通,话费	代码较旧，接口可用性未验证。
+Cp0204/ChinaTelecomMonitor	签到与平台自动化	话费与用量监控	电信话费、通话与流量套餐用量监控	电信,青龙,Docker	—
+BNDou/Auto_Check_In	签到与平台自动化	签到与日常任务	多个 App 和网站的每日签到脚本集合	签到,脚本	—
+gnmyt/Nexterm	服务器与自托管	远程管理与监控	支持 SSH、VNC 和 RDP 的服务器管理软件	SSH,VNC,RDP	—
+dyc3/steamguard-cli	游戏与生活参考	游戏工具	Steam 两步验证码与交易确认命令行工具	Steam,2FA,Linux	涉及认证数据，应妥善保存且不入库。
+XiaoMi/ha_xiaomi_home	设备与系统增强	智能家居	小米设备的 Home Assistant 集成	小米,HomeAssistant	—
+lollipopkit/server_box_monitor	服务器与自托管	远程管理与监控	ServerBox 配套服务端监控组件	监控,服务器	—
+lollipopkit/flutter_server_box	服务器与自托管	远程管理与监控	ServerBox 服务器状态查看与管理工具箱	SSH,监控,移动端	—
+fengwenhua/hifini_sign_in	签到与平台自动化	签到与日常任务	音乐磁场 HiFiNi 的青龙签到脚本	青龙,签到	—
+qd-today/get-cookies	签到与平台自动化	Cookie 与模板	配合 QD 签到框架使用的浏览器 Cookie 获取扩展	Cookie,浏览器扩展	Cookie 等同账户敏感凭据，不要上传。
+Sitoi/dailycheckin	签到与平台自动化	签到与日常任务	支持多网站、多账号的每日签到项目	青龙,Docker,签到	—
+wes-lin/Cloud189Checkin	签到与平台自动化	签到与日常任务	天翼网盘自动签到项目	天翼网盘,签到	与另一同名仓库分别保留，不推断二者替代关系。
+jeessy2/ddns-go	网络与连接	动态域名与组网	自动更新 DNS 记录的 DDNS 工具	DDNS,DNS	—
+Aijiaobin/Cloud189Checkin	签到与平台自动化	签到与日常任务	面向青龙使用的天翼网盘签到项目	天翼网盘,青龙	与 wes-lin 同名项目区分作者保留。
+coracoo/awesome_docker_cn	服务器与自托管	部署资源与容器	Docker 自部署项目和中文部署教程清单	Docker,教程,资源清单	—
+wjf0214/qd-templates	签到与平台自动化	Cookie 与模板	QD 签到框架的公共 HAR 模板集合	QD,HAR,模板	实际 HAR 可能包含凭据，不应直接提交个人抓包。
+dr34m-cn/taosync	服务器与自托管	导航与文件服务	OpenList 与 AList 文件自动同步工具	OpenList,同步	—
+cnk3x/xunlei	媒体与内容处理	下载与发布	在 Linux 运行迅雷远程下载服务	Linux,迅雷,Docker	—
+hluk/CopyQ	日常应用与效率	剪贴板与跨设备	支持历史管理和脚本功能的剪贴板工具	剪贴板,跨平台	—
+biliup/biliup-app	媒体与内容处理	下载与发布	B 站投稿客户端，支持多 P 和稿件编辑	B站,投稿	仓库已归档；这是上传投稿工具，不是视频下载器。
+chen08209/FlClash	网络与连接	代理客户端	基于 ClashMeta 的跨平台代理客户端	Clash,跨平台	—
+ntop/n2n	网络与连接	动态域名与组网	点对点虚拟网络与异地组网工具	P2P,VPN	—
+markedjs/marked	开发与技术资源	开发工具与组件	将 Markdown 解析并编译为 HTML 的组件	Markdown,JavaScript	—
+sindresorhus/github-markdown-css	开发与技术资源	开发工具与组件	复现 GitHub Markdown 展示样式的 CSS	Markdown,CSS	—
+caoaolong/coding-soul-docs	开发与技术资源	学习资料	CodingSoul 系列编程课程文档	编程,教程	—
+v2rayA/v2rayA	网络与连接	代理客户端	面向 Xray 核心的 Web 管理与透明代理客户端	Xray,代理	—
+chenzyadb/CuprumTurbo-Scheduler	设备与系统增强	Android 与模块	Android 性能调度相关工具	Android,性能	具体设备适配和权限要求未实测。
+MRepoApp/magisk-modules-alt-repo	设备与系统增强	Android 与模块	Magisk 模块替代仓库的镜像	Magisk,模块	仓库已归档。
+MaaAssistantArknights/MaaAssistantArknights	游戏与生活参考	游戏工具	明日方舟日常任务自动化助手 MAA	明日方舟,MAA	—
+Hufe921/canvas-editor	开发与技术资源	开发工具与组件	基于 Canvas 与 SVG 的富文本编辑器组件	编辑器,Canvas,TypeScript	—
+iii80/NtrQQ	通讯与机器人	QQ 接入与增强	QQ 与 TIM PC 版去广告和功能增强辅助插件	QQ,TIM,Windows	README 已核对；不是 Android 应用。旧客户端兼容性及账号风险需核对。
+LSPosed/LSPosed	设备与系统增强	Android 与模块	Android 上的 Xposed 模块运行框架	Android,Xposed	—
+eritpchy/FingerprintPay	设备与系统增强	Android 与模块	为部分支付 App 增加指纹支付支持的模块	Android,指纹,支付	涉及支付安全，使用前需审查来源与权限。
+404-novel-project/novel-downloader	媒体与内容处理	下载与发布	可扩展的通用小说下载工具	小说,下载	获取内容前核对版权和平台规则。
+Androidacy/MagiskModuleManager	设备与系统增强	Android 与模块	查找和管理 Magisk 模块的 Android 应用	Android,Magisk	—
+SoftMeng/Fooocus-zh	AI 与智能助手	图像与 SVG	Fooocus 中文汉化补丁	Fooocus,汉化	配套补丁，不是独立绘图模型。
+kingToolbox/WindTerm	服务器与自托管	远程管理与监控	跨平台 SSH、SFTP、Telnet 与串口终端	SSH,终端,SFTP	—
+SubtitleEdit/subtitleedit	媒体与内容处理	音视频与字幕	字幕编辑软件	字幕,编辑	—
+hlmd/Postman-cn	开发与技术资源	开发工具与组件	Postman 中文汉化项目	API,Postman,汉化	仓库已归档；不是官方中文版本的保证。
+Richasy/Bili.Copilot	日常应用与效率	社区客户端	基于 Windows App SDK 的第三方 B 站客户端	Windows,B站	—
+agalwood/Motrix	媒体与内容处理	下载与发布	支持 HTTP、BT 与磁力链接的下载管理器	下载,跨平台	—
+dwj0-code/n2n-gui-for-windows	网络与连接	动态域名与组网	n2n 的 Windows 图形管理工具	Windows,n2n	与 n2n 主项目配套。
+NickeManarin/ScreenToGif	媒体与内容处理	音视频与字幕	屏幕录制并编辑为 GIF 或视频的工具	Windows,录屏,GIF	—
+wxbool/video-srt-windows	媒体与内容处理	音视频与字幕	通过视频语音识别生成 SRT 字幕的 Windows 工具	Windows,字幕,语音识别	—
+nathonius/obsidian-collapse-all	日常应用与效率	输入法与笔记	给 Obsidian 增加可绑定快捷键的全局折叠与展开命令	Obsidian,插件	README 已核对，主要作用于文件树等视图。
+guopenghui/obsidian-quiet-outline	日常应用与效率	输入法与笔记	增强 Obsidian 大纲浏览体验的插件	Obsidian,大纲	—
+leiurayer/downkyi	媒体与内容处理	下载与发布	哔哩下载姬旧项目收藏，保留作历史参考	B站,历史参考	README 明确宣布停止维护并永久关停；不能因为 archived=false 就判为仍维护。
+Licoy/fetch-github-hosts	网络与连接	Hosts 与连通性	同步 GitHub Hosts 的图形化和命令行工具	GitHub,Hosts	—
+lllyasviel/Fooocus	AI 与智能助手	图像与 SVG	基于 SDXL、侧重简化操作的本地图像生成软件	绘图,SDXL,本地部署	README 声明有限 LTS，仅修复 Bug，暂无迁移新模型架构计划。
+m9rco/Genymotion_ARM_Translation	设备与系统增强	Android 与模块	Genymotion 的 ARM 兼容转换包与相关校验工具	Android,模拟器,ARM	—
+WeNeedHome/SummaryOfLoanSuspension	游戏与生活参考	生活与社会资料	全国各省市停贷通知汇总资料	社会资料,历史参考	资料可能陈旧，不作为当前法律或金融建议。
+LiLittleCat/awesome-free-chatgpt	AI 与智能助手	聊天客户端	免费 ChatGPT 镜像站与相关站点资料清单	ChatGPT,资源清单	第三方站点可用性与隐私未验证，不提交敏感信息。
+akhilnathe/winactivate	设备与系统增强	系统授权相关	Windows HWID 与 KMS38 激活相关脚本	Windows,授权	需核对合法许可；本目录不提供激活操作。
+GoodCoder666/GoogleTranslate_IPFinder	网络与连接	Hosts 与连通性	谷歌翻译接口 IP 扫描与测速工具	翻译,IP,Hosts	IP 和服务是否可用未实测。
+Ponderfly/GoogleTranslateIpCheck	网络与连接	Hosts 与连通性	扫描可用谷歌翻译 IP 的工具	翻译,IP	—
+eysp/portainer-ce	服务器与自托管	部署资源与容器	Portainer CE 中文汉化 Docker 镜像	Docker,Portainer,汉化	第三方镜像，需核对来源与版本。
+rRemix/APlayer	媒体与内容处理	音视频与字幕	Android 音乐播放器	Android,音乐	—
+EbookFoundation/free-programming-books	开发与技术资源	学习资料	免费编程书籍与学习资源清单	编程,书籍,资源清单	—
+geekan/HowToLiveLonger	游戏与生活参考	生活与社会资料	面向程序员的健康与长寿资料整理	健康,资料	非个体医疗建议，不代表内容均经医学审核。
+Anduin2017/HowToCook	游戏与生活参考	生活与社会资料	适合按步骤查阅的做菜食谱集合	食谱,烹饪	—
