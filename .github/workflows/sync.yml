@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md index.html data/stars.json data/catalog.json data/history.json data/identities.json
+          git add README.md catalog/ index.html data/stars.json data/catalog.json data/history.json data/identities.json
           if ! git diff --cached --quiet; then
             git commit -m "同步公开收藏与分类目录"
             git push

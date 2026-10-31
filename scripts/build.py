@@ -54,22 +54,8 @@ def build():
     categories = CATEGORIES + (['待分类'] if any(r['category'] == '待分类' for r in rows) else [])
     counts = Counter(r['category'] for r in rows)
     date = snapshot['fetched_at'][:10]
-    md = ['# 月海的 GitHub 收藏导航', '', f'账号：[yue-hai](https://github.com/yue-hai?tab=stars) · **{len(rows)} 个公开 Star** · 快照日期：{date}（UTC）', '', '> 按用途找项目，而不是在收藏列表里翻页。中文说明是整理判断，不代表已安装、推荐或安全审计。', '', '## 怎么查找', '', '- **在 GitHub 里**：使用下方分类目录，或浏览器 Ctrl/Cmd+F 搜索项目名、中文用途、平台和标签。', '- **离线查找**：下载本仓库后直接打开 [搜索网页](index.html)，可按关键词、分类、标签、状态筛选和排序，不需要服务器。', '- **手工维护**：[分类与中文说明](data/curation.tsv) 是人工维护源；[原始快照](data/stars.json) 保存公开 API 数据。', '', '## 分类目录', '', '| 分类 | 数量 |', '| --- | ---: |']
-    for i, c in enumerate(categories, 1):
-        md.append(f'| [{c}](#category-{i}) | {counts[c]} |')
-    md += ['', '## 值得留意', '', '- **停止维护**：[downkyi](https://github.com/leiurayer/downkyi#readme) 的 README 已明确宣布停止维护；API 的未归档状态不等于仍在维护。', '- **有限 LTS**：[Fooocus](https://github.com/lllyasviel/Fooocus#readme) 声明仅修复 Bug，暂无新模型架构迁移计划。', '- **已归档**：' + '、'.join(f'[{r["name"]}]({r["url"]})' for r in rows if r['status'] == '已归档') + '。', '- **同名与配套项目**：两份 Cloud189Checkin 分别保留作者；NapCat 与 Docker 部署、n2n 与 Windows GUI、Fooocus 与汉化补丁都分别列出。', '- **状态边界**：“未归档”仅指 API 字段；最近推送不等于最近发布，也不保证软件仍可用。', '']
-    for i, c in enumerate(categories, 1):
-        md += [f'<a id="category-{i}"></a>', f'## {c}（{counts[c]}）', '']
-        group = [r for r in rows if r['category'] == c]
-        for sub in dict.fromkeys(r['subcategory'] for r in group):
-            md += [f'### {sub}', '', '| 项目 | 中文用途 | 标签 | 状态 / 备注 |', '| --- | --- | --- | --- |']
-            for r in sorted((r for r in group if r['subcategory'] == sub), key=lambda x: x['name'].casefold()):
-                note = (r['status'] + '；' if r['status'] != '未归档' else '') + r['note']
-                md.append(f'| [{r["name"]}]({r["url"]}) | {mdcell(r["summary"])} | {mdcell(" / ".join(r["tags"]))} | {mdcell(note or "—")} |')
-            md.append('')
-    md += ['## 更新与来源', '', '- [公开仓库](https://github.com/yue-hai/github-stars) · [同步运行记录](https://github.com/yue-hai/github-stars/actions/workflows/sync.yml)：每日北京时间 09:17 左右同步，也支持手动运行；实际执行以 Actions 记录为准。', '- 数据来自 GitHub 公开 Star API；不包含私有仓库 Star，也没有更改 GitHub 上的收藏。', '- 初次整理的 100 项已逐项写中文用途与主分类；描述不足的 7 项补读 README。后续新增项目先显示待分类，不代表已完成中文审核。', '- 构建：Python 3.9+ 执行 \u0060python3 scripts/build.py\u0060；不联网、不安装依赖。', '- 后续同步方案见 [维护说明](docs/维护说明.md)。', '- 原项目代码和资料的许可归各自作者；本目录只索引，不复制分发软件。', '']
-    text = '\n'.join(md).replace('\u0060', chr(96))
-    (ROOT / 'README.md').write_text(text)
+    from markdown_catalog import write_catalog
+    write_catalog(ROOT, snapshot, rows, categories)
     template = (ROOT / 'templates/index.html').read_text()
     payload = json.dumps(dict(date=date, categories=categories, rows=rows), ensure_ascii=False).replace('<', chr(92) + 'u003c').replace('>', chr(92) + 'u003e').replace('&', chr(92) + 'u0026')
     (ROOT / 'index.html').write_text(template.replace('__LIBRARY_DATA__', payload))
