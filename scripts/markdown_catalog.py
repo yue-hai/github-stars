@@ -25,7 +25,8 @@ def text(value):
 
 def item_lines(r):
     status = ' · **' + text(r['status']) + '**' if r['status'] != '未归档' else ''
-    lines = [f'- **[{r["name"]}]({r["url"]})**{status}', '', '  **功能**：' + text(r["summary"])]
+    function = r.get('functions') or r['summary']
+    lines = [f'- **[{r["name"]}]({r["url"]})**{status}', '', '  **主要功能**：' + text(function)]
     if r.get('usage'):
         lines += ['', '  **适用场景**：' + text(r['usage'])]
     if r['tags']:
@@ -78,5 +79,5 @@ def write_catalog(root, snapshot, rows, categories):
     nav += ['', '<details>', '<summary>维护状态提醒（' + str(len(special)) + ' 项）</summary>', '']
     for r in special:
         nav.append(f'- [{r["name"]}]({r["url"]})：**{text(r["status"])}**。详见[分类备注](catalog/{paths[r["category"]]})。')
-    nav += ['', '“未归档”不等于仍活跃；收藏也不代表安全推荐。', '', '</details>', '', '## 查找与更新', '', '- **找工具**：从用途分类进入；想一次搜索全部内容，打开[全部收藏](catalog/all.md)后按 Ctrl/Cmd+F。', '- **仓库内搜索**：使用 GitHub 搜索，例如 ' + chr(96) + 'repo:yue-hai/github-stars path:catalog 剪贴板' + chr(96) + '；代码索引可能延迟。', '- **自动同步**：每天北京时间 **09:17 左右**检查，GitHub 调度可能延迟；可在 Actions 手动运行。', '- **新收藏**：先进入待分类；已有人工用途和备注不会被自动覆盖。', '- **变更追溯**：[收藏变化数据](data/history.json)与 Git 提交历史保留记录；项目从公开列表消失不一定意味着取消 Star。', '', '<details>', '<summary>数据来源与可选离线工具</summary>', '', '仅收录公开 Star。初次 100 项经人工整理，描述不足的 7 项补读 README；不代表逐一实测或源码审计。', '', '[中文分类源数据](data/curation.tsv) · [公开快照](data/stars.json) · [可选离线搜索网页](index.html)（下载后打开；不是在线应用）', '', '原项目代码及资料的许可归各自作者。本仓库只作索引。', '', '</details>', '']
+    nav += ['', '“未归档”不等于仍活跃；收藏也不代表安全推荐。', '', '</details>', '', '## 查找与更新', '', '- **找工具**：从用途分类进入；想一次搜索全部内容，打开[全部收藏](catalog/all.md)后按 Ctrl/Cmd+F。', '- **仓库内搜索**：使用 GitHub 搜索，例如 ' + chr(96) + 'repo:yue-hai/github-stars path:catalog 剪贴板' + chr(96) + '；代码索引可能延迟。', '- **自动同步**：每天北京时间 **09:17 左右**检查，GitHub 调度可能延迟；可在 Actions 手动运行。', '- **新收藏**：先进入待分类；已有人工用途和备注不会被自动覆盖。', '- **变更追溯**：[收藏变化数据](data/history.json)与 Git 提交历史保留记录；项目从公开列表消失不一定意味着取消 Star。', '', '<details>', '<summary>数据来源与可选离线工具</summary>', '', '仅收录公开 Star。全部 100 项均有功能说明；说明依据各仓库 README/官方文档整理，不代表逐一实测或源码安全审计。信息不明处会明确注明。', '', '[中文分类源数据](data/curation.tsv) · [README功能说明](data/functions.tsv) · [适用场景](data/usage.tsv) · [公开快照](data/stars.json) · [可选离线搜索网页](index.html)（下载后打开；不是在线应用）', '', '原项目代码及资料的许可归各自作者。本仓库只作索引。', '', '</details>', '']
     (root / 'README.md').write_text(chr(10).join(nav), encoding='utf-8')

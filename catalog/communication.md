@@ -13,7 +13,7 @@
 
 - **[iii80/NtrQQ](https://github.com/iii80/NtrQQ)**
 
-  **功能**：QQ 与 TIM PC 版去广告和功能增强辅助插件
+  **主要功能**：传统PC QQ/TIM插件，README列显IP、去广告和功能增强；需匹配客户端，作者提示封号风险且限学习交流、非商业。
 
   **适用场景**：研究传统 QQ/TIM PC 客户端去广告和增强功能时参考；不能与当前 NTQQ 协议接入框架 NapCat 混为一谈。
 
@@ -28,7 +28,7 @@
 
 - **[NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker)**
 
-  **功能**：NapCat 的 Docker 部署项目
+  **主要功能**：NapCatQQ的Docker部署包装，简化容器启动与配置；只负责部署，不是独立AI机器人。
 
   **适用场景**：已经决定使用 NapCat，想通过容器部署时查看；实际 QQ 协议能力来自 NapCatQQ，两个收藏分别对应部署层和功能层。
 
@@ -43,7 +43,7 @@
 
 - **[NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)**
 
-  **功能**：基于 NTQQ 的协议端框架，提供 OneBot 接入
+  **主要功能**：基于NTQQ的QQ协议端框架，提供OneBot接口供机器人接入；需兼容客户端，留意账号和平台风险。
 
   **适用场景**：需要给机器人框架提供 QQ 的 OneBot 接口时参考；若目标是 AI 对话，还需要另接 AstrBot 等上层助手。
 

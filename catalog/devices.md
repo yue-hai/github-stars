@@ -16,7 +16,7 @@
 
 - **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)**
 
-  **功能**：罗技鼠标按键、DPI 和滚轮行为配置工具
+  **主要功能**：Logitech本地配置工具，支持按键/手势、应用配置、指针滚轮灯光和部分摄像头控制；支持有限且开发中，可能需退出其他占用软件。
 
   **适用场景**：希望调整罗技鼠标按键、DPI、SmartShift 等行为，又希望采用本地优先工具时参考，具体支持型号需核对。
 
@@ -24,7 +24,7 @@
 
 - **[TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)**
 
-  **功能**：Windows 任务栏透明与模糊效果工具
+  **主要功能**：Windows 10/11任务栏外观工具，可调透明度、颜色及Normal/Opaque/Clear/Blur/Acrylic状态，并按窗口最大化、开始菜单、搜索和任务视图动态切换。Blur和便携构建有系统版本限制；测试构建可能不稳定。
 
   **适用场景**：只想调整 Windows 任务栏外观时使用，不需要为了这个目的安装完整桌面主题套件。
 
@@ -35,7 +35,7 @@
 
 - **[Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager)**
 
-  **功能**：查找和管理 Magisk 模块的 Android 应用
+  **主要功能**：Android Magisk模块发现与管理应用，README建议当前V3并警告旧版/部分渠道过时停更；需兼容Magisk，核对模块来源。
 
   **适用场景**：已有 Magisk 环境、需要浏览和管理模块时参考；模块管理器不等于模块本身，兼容性与风险仍需逐项核对。
 
@@ -43,7 +43,7 @@
 
 - **[chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler)**
 
-  **功能**：Android 性能调度相关工具
+  **主要功能**：README不可访问；简介仅称Android性能调度工具，具体功能、设备、权限未知，未按名字猜测。
 
   **适用场景**：研究 Android 性能调度方案或设备优化时参考；实际设备适配和权限要求未验证，不能当作通用提速开关。
 
@@ -58,7 +58,7 @@
 
 - **[eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay)**
 
-  **功能**：为部分支付 App 增加指纹支付支持的模块
+  **主要功能**：为部分支付应用增加指纹确认/自动填密，README称凭据由Android Keystore加密；需要指纹硬件及兼容模块，涉及支付凭据和高权限。
 
   **适用场景**：希望研究为部分支付应用补充指纹验证的方案时参考；涉及支付与系统模块权限，不应只因方便就忽略安全审查。
 
@@ -73,7 +73,7 @@
 
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**
 
-  **功能**：显示和控制 Android 设备屏幕
+  **主要功能**：Android屏幕镜像与控制工具，可通过USB或网络在电脑显示、操作并录制手机屏幕；需授权ADB调试并按官方说明安装。
 
   **适用场景**：想在电脑上查看和操作 Android 手机屏幕、减少电脑与手机之间切换时参考；连接方式与设备授权按官方文档配置。
 
@@ -81,7 +81,7 @@
 
 - **[LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)**
 
-  **功能**：Android 上的 Xposed 模块运行框架
+  **主要功能**：Android ART/Xposed模块框架，为兼容模块提供Hook运行环境；需root及兼容Magisk/Riru/Zygisk路径，高权限系统修改须核对ROM和模块。
 
   **适用场景**：需要运行 Android Xposed 生态模块时参考；框架、具体模块和系统版本必须匹配，安装可能涉及较高系统权限。
 
@@ -89,7 +89,7 @@
 
 - **[m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation)**
 
-  **功能**：Genymotion 的 ARM 兼容转换包与相关校验工具
+  **主要功能**：Genymotion ARM兼容转换包/资料，涉及旧ARMv7和实验性Android 11–14 x86\_64 ARM64；须匹配模拟器版本，部分适配未验证。
 
   **适用场景**：Genymotion 模拟器需要运行特定 ARM 应用时，查找匹配版本的转换包与校验资料；不同 Android 版本不能任意混用。
 
@@ -97,7 +97,7 @@
 
 - **[MRepoApp/magisk-modules-alt-repo](https://github.com/MRepoApp/magisk-modules-alt-repo)** · **已归档**
 
-  **功能**：Magisk 模块替代仓库的镜像
+  **主要功能**：Magisk替代模块源的镜像/索引，可供兼容管理器添加；本身不是模块，仓库已归档，需逐项核实来源/安全。
 
   **适用场景**：需要查找 Magisk 模块替代仓库的历史镜像时参考；已归档的模块来源尤其需要核对更新与安全性。
 
@@ -115,7 +115,7 @@
 
 - **[akhilnathe/winactivate](https://github.com/akhilnathe/winactivate)**
 
-  **功能**：Windows HWID 与 KMS38 激活相关脚本
+  **主要功能**：README描述Windows HWID/KMS38相关脚本及系统要求；使用前确认合法授权，本目录不提供绕过授权步骤。
 
   **适用场景**：保留 Windows 激活相关脚本的研究线索；项目历史较旧，许可合规和适配情况需单独核对，本目录不提供激活步骤。
 
@@ -130,7 +130,7 @@
 
 - **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)**
 
-  **功能**：Windows 与 Office 激活及故障排查脚本
+  **主要功能**：Windows/Office授权与故障排查脚本集合；涉及软件许可，须确认合法授权。本目录不提供绕过授权步骤。
 
   **适用场景**：研究 Windows、Office 授权相关工具和故障排查资料时参考；使用任何激活功能前需确认合法许可，不作为获取授权的替代品。
 
@@ -148,7 +148,7 @@
 
 - **[XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)**
 
-  **功能**：小米设备的 Home Assistant 集成
+  **主要功能**：Home Assistant小米智能家居集成，将兼容设备接入自动化平台；需HA和账户/地区配置，设备覆盖见文档。
 
   **适用场景**：已有 Home Assistant、希望接入小米智能设备时参考；支持的设备型号、地区和配置条件需按集成文档核对。
 

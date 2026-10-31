@@ -22,6 +22,16 @@ def load():
         if name.casefold() in curated or category not in CATEGORIES:
             raise ValueError(f'Duplicate or invalid classification: {name}')
         curated[name.casefold()] = dict(category=category, subcategory=subcategory, summary=summary, tags=tags.split(','), note=note)
+    functions_path = ROOT / 'data/functions.tsv'
+    functions = {}
+    if functions_path.exists():
+        for line in functions_path.read_text().splitlines():
+            if not line or line.startswith('#'):
+                continue
+            name, details = line.split(chr(9), 1)
+            if name.casefold() in functions:
+                raise ValueError('Duplicate function details: ' + name)
+            functions[name.casefold()] = details
     usage_path = ROOT / 'data/usage.tsv'
     usage = {}
     if usage_path.exists():
@@ -50,7 +60,8 @@ def load():
         c = curated.get(name.casefold()) or by_id.get(r['id']) or dict(category='待分类', subcategory='待复核', summary=r.get('description') or '暂无说明，待人工复核', tags=[], note='新项目尚未进行中文用途审核。')
         aliases = registry.get(str(r['id']), [])
         scenario = usage.get(name.casefold()) or next((usage[n.casefold()] for n in reversed(aliases) if n.casefold() in usage), '')
-        c = dict(c, usage=scenario)
+        detail = functions.get(name.casefold()) or next((functions[n.casefold()] for n in reversed(aliases) if n.casefold() in functions), '')
+        c = dict(c, usage=scenario, functions=detail)
         status = '已归档' if r.get('archived') else '未归档'
         if name == 'leiurayer/downkyi':
             status = '停止维护'

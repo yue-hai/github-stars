@@ -36,9 +36,11 @@ class MarkdownTests(unittest.TestCase):
         reviewed = [r for r in rows if r.get('usage')]
         self.assertTrue(reviewed)
         self.assertTrue(all(len(r['usage']) >= 30 for r in reviewed))
+        self.assertTrue(all(r.get('functions') for r in reviewed))
+        self.assertEqual(len(reviewed), 100)
         for row in reviewed:
             block = chr(10).join(md.item_lines(row))
-            self.assertIn('**功能**：', block)
+            self.assertIn('**主要功能**：', block)
             self.assertIn('**适用场景**：', block)
             self.assertIn('**标签**：', block)
             self.assertNotIn('<sub>', block)

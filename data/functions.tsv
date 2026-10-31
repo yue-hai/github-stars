@@ -1,0 +1,101 @@
+# Repository	README/官方文档核对的主要功能与条件（中文整理；非实机测试）
+404-novel-project/novel-downloader	浏览器用户脚本，可从支持小说页面导出TXT/EPUB并按站点取章节；需用户脚本管理器，部分站点需登录/已购，需核对版权与README披露的数据处理。
+agalwood/Motrix	桌面下载管理器支持HTTP/FTP/BT/Magnet，含BT文件选择、Tracker更新、并行任务、限速和通知；安装依平台，下载依网络。
+Aijiaobin/Cloud189Checkin	天翼云盘个人/家庭空间签到，支持多账号、Actions/青龙和推送；账号凭据需用secrets妥善保管，并与同名项目按作者区分。
+akhilnathe/winactivate	README描述Windows HWID/KMS38相关脚本及系统要求；使用前确认合法授权，本目录不提供绕过授权步骤。
+Aliothmoon/MAA-Meow	在Android原生运行MAA Core的明日方舟自动化工具，可执行理智作战、公招、基建、抄作业、肉鸽及定时任务，并提供前台控制/后台虚拟显示和Intent集成。需Android 9+、arm64或x86_64及Shizuku授权或Root；README注明开发中、功能不稳定。
+Androidacy/MagiskModuleManager	Android Magisk模块发现与管理应用，README建议当前V3并警告旧版/部分渠道过时停更；需兼容Magisk，核对模块来源。
+Anduin2017/HowToCook	结构化菜谱及烹饪基础资料，包含食材、步骤和准备指南，可在线浏览或用Docker Viewer；README提供演示默认口令，部署需改密并限制访问。
+AprilNEA/OpenLogi	Logitech本地配置工具，支持按键/手势、应用配置、指针滚轮灯光和部分摄像头控制；支持有限且开发中，可能需退出其他占用软件。
+AstrBotDevs/AstrBot	一体化Agent聊天机器人平台，可接QQ、企业微信、飞书、钉钉、Telegram等IM，支持多模型、多模态、MCP、技能、知识库、插件、WebUI/Web ChatUI及沙箱。可uv或Docker部署；平台和模型需另行配置。
+awesome-dsh-plugin/awesome-dsh-plugin	DSH插件目录，可浏览或用DSH命令发现/添加；需兼容版本，收录不等于安全审查。
+biliup/biliup-app	B站投稿客户端，旧版支持多P上传、线路/并发控制和稿件编辑；仓库已归档停更并迁往新项目，不是视频下载器。
+BNDou/Auto_Check_In	多App/网站每日签到脚本合集，可集中运行重复任务；平台支持依脚本版本，需配置账号并遵守站点规则。
+caoaolong/coding-soul-docs	编程课程文档，含手写操作系统、编译器/语言实现及Godot示例，主要供阅读学习，不是软件应用。
+ChatGPTNextWeb/NextChat	跨平台AI聊天前端，连接配置的模型服务并提供Web/桌面交互；供应商、账户和费用取决于当前配置。
+chen08209/FlClash	ClashMeta/mihomo多平台代理客户端，支持配置导入、规则、代理组、延迟测试、系统代理/TUN、DNS日志及备份；需自行提供服务配置，平台条件不同。
+chenzyadb/CuprumTurbo-Scheduler	README不可访问；简介仅称Android性能调度工具，具体功能、设备、权限未知，未按名字猜测。
+cnk3x/xunlei	从群晖迅雷套件提取的Linux远程下载服务，提供网页控制台并支持本地/Docker；README标为测试版、未大规模验证，仅供研究测试。
+codewec/dashlit	自托管个人/团队仪表盘，可建公开、登录可见或私有看板，以行列/瀑布布局整理链接和服务；支持拖拽、搜索、快捷键、图标主题、用户权限及URL可用性监测。可Docker或Go二进制部署；生产环境应持久化数据并保护密钥。
+coracoo/awesome_docker_cn	中文Docker部署项目/教程目录，按类别提供项目和部署链接；适合发现候选，教程可能过期，应看上游文档。
+Cp0204/ChinaTelecomMonitor	监控电信话费、通话和流量套餐，可青龙定时或Docker/API运行；需账号配置，接口变化可能失效。
+CrossPaste/crosspaste-desktop	跨平台局域网剪贴板同步，README列端到端加密、OCR、CLI和MCP；参与设备需安装且网络可达。
+deepseek-ai/deepseek-harness	插件化Agent环境，支持Web/headless编码Agent及模型/工具/沙箱/会话扩展；需Node.js，README称preview并提示安全及兼容变化。
+dockur/windows	Docker方式启动Windows虚拟机并提供Web/VNC访问；需虚拟化资源和合法许可证，不是普通容器进程。
+dongyubin/DockerHub	Docker镜像源/加速资料汇总，用于排查拉取问题；第三方源时效与可信度未逐一验证。
+dotnetcore/AgileConfig	.NET分布式配置中心，集中管理多应用配置并向客户端推送更改；需部署服务端并集成客户端，存储和依赖依版本设置。
+dr34m-cn/taosync	OpenList/AList v3+同步任务管理，支持全量/仅新增/移动、过滤、cron/定时、进度和通知；需另部署OpenList，公网需保护。
+DreamLay/MyPhoneBill	移动/联通话费查询工具，通过登录获取账单或套餐数据；代码较旧，接口和登录流程未验证，需保护凭据。
+dwj0-code/n2n-gui-for-windows	Windows图形界面管理n2n edge/supernode及路由，可与OpenWrt配合；需运行库及n2n组件，配置文件网络密码未加密。
+dyc3/steamguard-cli	Linux命令行Steam Guard工具，可生成验证码并处理交易确认；需导入认证数据，身份文件应安全保管且不可提交。
+EbookFoundation/free-programming-books	按语言/主题整理免费编程书籍和课程链接，可浏览搜索；它是资源索引不是完整课程，链接、授权和质量需分别核对。
+eritpchy/FingerprintPay	为部分支付应用增加指纹确认/自动填密，README称凭据由Android Keystore加密；需要指纹硬件及兼容模块，涉及支付凭据和高权限。
+eysp/portainer-ce	第三方Portainer CE中文化容器镜像/部署，用图形界面管理容器；功能边界应对照官方矩阵，镜像来源和README版本信息需核实。
+fengwenhua/hifini_sign_in	HiFiNi音乐磁场签到脚本，可按README在青龙定时运行；需站点登录，接口变化可能失效。
+FNOSP/fnnas-api	Python异步飞牛NAS WebSocket SDK，含登录/token、用户、文件列表/搜索/上传、磁盘/端口接口和重连；错误处理不完善，未实现下载/双向同步。
+geekan/HowToLiveLonger	健康与长寿研究摘要、主题资料和原始论文链接，支持在线/离线阅读；摘要不是个体医疗建议，重要结论需看原文。
+Genymobile/scrcpy	Android屏幕镜像与控制工具，可通过USB或网络在电脑显示、操作并录制手机屏幕；需授权ADB调试并按官方说明安装。
+gnmyt/Nexterm	README列SSH/VNC/RDP连接、SFTP文件管理、Docker部署、Proxmox管理、2FA/OIDC及组织隔离；支持Docker和客户端，公网需加固。
+GoodCoder666/GoogleTranslate_IPFinder	扫描translate.googleapis.com候选IP并测速排序，可辅助Hosts排障；针对特定Windows环境，写Hosts需提权，结果时效性强。
+guopenghui/obsidian-quiet-outline	Obsidian大纲增强，README列标题搜索/正则、层级折叠及状态记忆、Canvas/Kanban/PDF导航、悬停预览；未说明最低版本。
+gurecn/YuyanIme	Android Rime输入法，支持九宫格/双拼/手写、剪贴板短语、主题及悬浮键盘；需Android 6+，厂商权限有影响。
+HKUDS/nanobot	轻量自托管Python个人AI Agent，可在Web、终端及Telegram/Discord/Slack/微信等渠道工作，支持文件处理、工具/MCP、搜索、定时、多代理、长期记忆和SDK/API。需Python 3.11+及模型服务；硬件和模型费用自备，stable与current source文档可能不同。
+hlmd/Postman-cn	Postman旧版中文化资源和安装说明，README指向后续注入器项目；不是官方中文发行版，传统替换方式不适配新版且仓库停更。
+hluk/CopyQ	跨平台剪贴板管理器，可记录多种格式、搜索筛选、编辑、标签、快捷键、命令和脚本，适合本机历史管理；不等同跨设备同步。
+hotheadhacker/awesome-selfhost-docker	按类别整理Docker/Compose自托管项目，供NAS/服务器选型；是资源目录，部署细节查看上游。
+Hufe921/canvas-editor	Canvas/SVG富文本编辑器组件，可集成到Web应用实现文档编辑；属于开发组件，不是独立办公套件。
+iDvel/rime-ice	离线即用的简体中文Rime输入方案与词库，覆盖全拼、常见双拼、英文和扩展输入，适配Weasel、Squirrel、Fcitx5、iBus等Rime客户端。需先安装Rime并部署配置；部分双拼方案或语言模型需额外设置。
+igromanru/Helldivers-2-Highlight-Samples	绝地潜兵2样本高亮Mod资料；仓库已归档，当前版本和反作弊兼容性不保证。
+iii80/NtrQQ	传统PC QQ/TIM插件，README列显IP、去广告和功能增强；需匹配客户端，作者提示封号风险且限学习交流、非商业。
+jeessy2/ddns-go	探测公网IPv4/IPv6并更新DNS服务商记录，提供Web配置、日志、Webhook和TTL；需要DNS API凭据及网络连通，管理页面应保护。
+joanrod/star-vector	视觉语言模型项目，可将图像或文字转换为SVG代码；需模型环境，不是普通矢量编辑器。
+kingToolbox/WindTerm	跨平台终端支持SSH/Telnet/TCP/串口/Shell，并集成SFTP/SCP、本地文件管理、SSH转发/代理和tmux；README说明开源范围有限。
+Lake1059/FFmpegFreeUI	Windows FFmpeg GUI，可组合参数、预设、批处理、估算时间体积、暂停和字幕/混流；需兼容Windows/.NET并自备FFmpeg。
+leiurayer/downkyi	README明确Deprecated并宣布永久停更，仅供历史参考，不作当前可用工具推荐；README里的法律事项为开发者转述，不代表法院裁定。
+Licoy/fetch-github-hosts	GUI/CLI从可配置数据源同步GitHub Hosts到系统，也能提供HTTP文本/JSON服务和定时刷新；写系统文件需提权，映射可能过时。
+LiLittleCat/awesome-free-chatgpt	第三方ChatGPT镜像/服务链接目录，可浏览并反馈新增/失效；非官方，站点可能收费或变更，勿输入敏感信息。
+lllyasviel/Fooocus	本地SDXL图像生成，支持文生图、图生图、放大、修补/扩图、图像提示；需模型与显存/内存，有限LTS主要修Bug，远程Web默认无认证。
+lollipopkit/flutter_server_box	移动端ServerBox客户端/工具箱，可查看服务器状态并通过SSH等方式管理主机；需配置主机和认证，保护密钥/密码。
+lollipopkit/server_box_monitor	ServerBox配套服务端监控组件，在服务器侧采集状态供客户端查看；需配置认证并限制网络暴露。
+LSPosed/LSPosed	Android ART/Xposed模块框架，为兼容模块提供Hook运行环境；需root及兼容Magisk/Riru/Zygisk路径，高权限系统修改须核对ROM和模块。
+m9rco/Genymotion_ARM_Translation	Genymotion ARM兼容转换包/资料，涉及旧ARMv7和实验性Android 11–14 x86_64 ARM64；须匹配模拟器版本，部分适配未验证。
+MaaAssistantArknights/MaaAssistantArknights	明日方舟图像识别自动化，README列自动作战、基建、公招、日常、肉鸽及作业导入分享；需支持的游戏和运行环境，UI变化会影响识别。
+markedjs/marked	JavaScript Markdown解析/编译库，支持浏览器、Node和CLI转HTML并扩展语法；不会清理HTML，渲染不可信内容需额外消毒。
+massgravel/Microsoft-Activation-Scripts	Windows/Office授权与故障排查脚本集合；涉及软件许可，须确认合法授权。本目录不提供绕过授权步骤。
+MetaCubeX/ClashMetaForAndroid	Clash.Meta Android GUI，用于配置和运行代理内核、导入配置文件并通过Intent控制启停。最低Android 5、推荐7+，支持多ABI；内核依赖Clash.Meta，源码构建需Android/Go/CMake工具链。
+MRepoApp/magisk-modules-alt-repo	Magisk替代模块源的镜像/索引，可供兼容管理器添加；本身不是模块，仓库已归档，需逐项核实来源/安全。
+NapNeko/NapCat-Docker	NapCatQQ的Docker部署包装，简化容器启动与配置；只负责部署，不是独立AI机器人。
+NapNeko/NapCatQQ	基于NTQQ的QQ协议端框架，提供OneBot接口供机器人接入；需兼容客户端，留意账号和平台风险。
+nathonius/obsidian-collapse-all	Obsidian文件树、标签、搜索、书签折叠/展开命令，可由命令面板或热键调用；README指出Search没有toggle，Bookmarks主要toggle且可能不稳定。
+NickeManarin/ScreenToGif	录制屏幕区域、摄像头或绘图板，逐帧编辑并导出GIF/APNG/视频/PSD/PNG序列；需要兼容的.NET/Windows环境，适合教程与问题复现。
+ntop/n2n	轻量P2P虚拟网络，edge节点可UDP直连，NAT受限时经supernode中继，也可自建supernode；节点须能访问supernode且配置匹配。
+OpenListTeam/OpenList	多存储文件列表服务，把网盘等统一为浏览/分享入口；不是同步工具，驱动和权限需分别配置。
+Ponderfly/GoogleTranslateIpCheck	扫描和测速谷歌翻译候选IP，支持IPv4/IPv6、快速扫描及可选写Hosts；提权按OS而异，不能保证翻译服务恢复。
+public-apis/public-apis	按主题汇总公开API和数据服务链接，涵盖多个类别，供开发者查找接口；它是社区清单，不负责运行服务，也不保证免费或持续可用。需核实各API条款、认证、额度和隐私政策。
+punkpeye/awesome-mcp-servers	MCP服务器/客户端/教程/框架及托管平台分类目录，供AI集成选型；不是单一服务，安全和维护需逐项审核。
+qd-today/get-cookies	Chrome/Firefox扩展，提取浏览器Cookie供QD签到框架使用；Cookie等同登录凭据，只应在可信环境使用且不可公开提交。
+Ren-Boo/QiDianDuShu	起点读书Android界面自动化脚本，处理福利/视频/听书任务；不是阅读器或下载器，界面变化可能失效。
+Richasy/Bili.Copilot	Windows第三方B站客户端，README列登录/播放、AI总结问答及BBDown/FFmpeg下载混流；部分AI需字幕，下载受架构和FFmpeg条件影响。
+ripienaar/free-for-dev	汇集面向开发者的免费服务与免费层资源，覆盖云、托管、API、开发工具等，并规定收录条件；只纳入符合标准的服务，不是自托管软件清单。免费额度可能变化。
+rRemix/APlayer	Android音乐播放器，可按歌曲/艺人/专辑/目录/播放列表浏览，含歌词、小组件、媒体扫描和封面；系统要求以当前版本为准。
+shufflewzc/faker2	青龙面板生态京东自动化脚本集合，含签到、农场/种豆、抽奖、活动及Cookie辅助脚本；需按青龙任务配置并提供账号Cookie。接口或活动时效会影响运行，须审阅脚本和授权风险。
+SillyTavern/SillyTavern	本地安装的统一界面，可连接文本LLM、图像生成与TTS服务，提供角色/提示词交互、视觉小说模式、世界信息、移动布局及第三方扩展；不托管模型。需Node.js 20+，本地推理硬件要求由模型后端决定。
+sindresorhus/github-markdown-css	为已渲染Markdown提供GitHub风格CSS主题，支持明暗呈现；只负责样式，不解析Markdown。
+Sitoi/dailycheckin	多网站、多账号签到脚本，README列出Python/PyPI、Docker、青龙、群晖和本地方式，以及通知/定时/更新能力；需核对各平台脚本当前状态。
+SoftMeng/Fooocus-zh	Fooocus简体中文语言包，安装到相应语言目录并按参数启用；需兼容Fooocus，本身不是生成程序或模型。
+SubtitleEdit/subtitleedit	字幕编辑、校时、播放、格式转换和备份，并有可选翻译、语音识别和OCR；在线服务可能处理字幕/媒体数据。
+TG-Twilight/c001apk	非官方酷安客户端，可看动态、文章、评论和搜索，管理收藏/屏蔽/历史及多账号；验证码流程有限，跨版本迁移受限。
+TranslucentTB/TranslucentTB	Windows 10/11任务栏外观工具，可调透明度、颜色及Normal/Opaque/Clear/Blur/Acrylic状态，并按窗口最大化、开始菜单、搜索和任务视图动态切换。Blur和便携构建有系统版本限制；测试构建可能不稳定。
+tsxcw/oneNav	oneNav网页导航项目，README说明npm安装、开发及构建流程；具体功能信息有限，按仓库代码核实，不与同名项目混淆。
+tvvocold/free-for-dev-zh	中文开发工具和免费服务索引，便于寻找国内或中文资料；额度、地区支持及可用性需回到服务商核实。
+v2rayA/v2rayA	Web代理管理客户端，可导入节点/订阅、测延迟、设置RoutingA规则分流和透明代理；需配套核心/规则，透明代理可能要求root及防火墙/TUN。
+vikiboss/60s	开放API集合，重点提供每日新闻，也含文档列出的其他数据接口；新闻端点可返回JSON、文本或图片，数据定时抓取并缓存。公共主站额度有限并严格限流；生产建议自部署，支持Docker/Workers/Deno/Bun/Node等。
+WeNeedHome/SummaryOfLoanSuspension	省市停贷通知与楼盘历史资料汇总，含结构化、统计/地图查看；README声明可能不准确，不代表实时进展或法律/金融意见。
+wes-lin/Cloud189Checkin	天翼云盘签到/奖励获取，支持Actions、Node.js、青龙、多账号与推送；需配置secrets，设备锁/MFA可阻断，凭据勿公开。
+wjf0214/qd-templates	qiandao/QD框架公共HAR模板示例；框架版本不匹配可能失效，HAR可能包含Cookie，个人抓包不能公开提交。
+wxbool/video-srt-windows	Windows GUI调用语音识别生成SRT/文本，支持批处理、过滤和翻译；云端API需账号/密钥，不同版本功能不同并可能上传媒体/文本。
+xbeeant/downstash	本地模拟QStash/Redis REST API，支持延时、重试、签名回调、队列、死信和cron；适合Bun离线测试，不是生产队列。
+XiaoMi/ha_xiaomi_home	Home Assistant小米智能家居集成，将兼容设备接入自动化平台；需HA和账户/地区配置，设备覆盖见文档。
+yclown/ql_jd_cookie	Windows桌面京东Cookie工具，获取后可发送至青龙并管理多账号；需青龙API授权，凭据必须保密。
+zhihulite/Hydrogen	基于LuaJVM的知乎第三方客户端工程，使用Lua业务层与Android原生API桥接，含网络请求、缓存、下载、主题和WebView等模块。README标注维护延缓，Final 7已存档停止维护；下载APK需核对来源。
+zhuoyanzhe/AutoUpdateJdCookie	检测京东Cookie失效并登录获取新凭据、更新青龙变量；需Python/Playwright，新设备验证可能需人工。

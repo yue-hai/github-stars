@@ -14,7 +14,7 @@
 
 - **[Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow)**
 
-  **功能**：明日方舟 MAA Android 版日常任务助手
+  **主要功能**：在Android原生运行MAA Core的明日方舟自动化工具，可执行理智作战、公招、基建、抄作业、肉鸽及定时任务，并提供前台控制/后台虚拟显示和Intent集成。需Android 9+、arm64或x86\_64及Shizuku授权或Root；README注明开发中、功能不稳定。
 
   **适用场景**：希望在 Android 设备上处理明日方舟日常任务时参考；与桌面 MAA 分开保留，按实际设备选择。
 
@@ -22,7 +22,7 @@
 
 - **[dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli)**
 
-  **功能**：Steam 两步验证码与交易确认命令行工具
+  **主要功能**：Linux命令行Steam Guard工具，可生成验证码并处理交易确认；需导入认证数据，身份文件应安全保管且不可提交。
 
   **适用场景**：需要在 Linux 或命令行环境处理 Steam 验证码和交易确认时参考；身份文件和认证数据必须单独保护。
 
@@ -37,7 +37,7 @@
 
 - **[igromanru/Helldivers-2-Highlight-Samples](https://github.com/igromanru/Helldivers-2-Highlight-Samples)** · **已归档**
 
-  **功能**：绝地潜兵 2 样本高亮 Mod 收藏
+  **主要功能**：绝地潜兵2样本高亮Mod资料；仓库已归档，当前版本和反作弊兼容性不保证。
 
   **适用场景**：查找绝地潜兵 2 样本高亮相关 Mod 的历史资料时参考；已归档不代表兼容当前游戏版本。
 
@@ -52,7 +52,7 @@
 
 - **[MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)**
 
-  **功能**：明日方舟日常任务自动化助手 MAA
+  **主要功能**：明日方舟图像识别自动化，README列自动作战、基建、公招、日常、肉鸽及作业导入分享；需支持的游戏和运行环境，UI变化会影响识别。
 
   **适用场景**：想自动处理明日方舟重复日常操作时参考；Android 使用场景可同时比较 MAA-Meow，具体连接方式按项目文档选择。
 
@@ -63,7 +63,7 @@
 
 - **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)**
 
-  **功能**：适合按步骤查阅的做菜食谱集合
+  **主要功能**：结构化菜谱及烹饪基础资料，包含食材、步骤和准备指南，可在线浏览或用Docker Viewer；README提供演示默认口令，部署需改密并限制访问。
 
   **适用场景**：需要按步骤查食谱、比较食材和做法时使用；适合日常做菜参考，不是营养治疗或个体膳食处方。
 
@@ -71,7 +71,7 @@
 
 - **[geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)**
 
-  **功能**：面向程序员的健康与长寿资料整理
+  **主要功能**：健康与长寿研究摘要、主题资料和原始论文链接，支持在线/离线阅读；摘要不是个体医疗建议，重要结论需看原文。
 
   **适用场景**：想从程序员视角了解健康与长寿相关资料时参考；内容仅作线索，不能替代循证核查和个人医疗建议。
 
@@ -86,7 +86,7 @@
 
 - **[WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension)**
 
-  **功能**：全国各省市停贷通知汇总资料
+  **主要功能**：省市停贷通知与楼盘历史资料汇总，含结构化、统计/地图查看；README声明可能不准确，不代表实时进展或法律/金融意见。
 
   **适用场景**：需要回看各地停贷通知相关汇总时查阅；它是历史社会资料，不代表当前进展、法律意见或贷款建议。
 

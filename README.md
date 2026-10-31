@@ -94,9 +94,9 @@
 <details>
 <summary>数据来源与可选离线工具</summary>
 
-仅收录公开 Star。初次 100 项经人工整理，描述不足的 7 项补读 README；不代表逐一实测或源码审计。
+仅收录公开 Star。全部 100 项均有功能说明；说明依据各仓库 README/官方文档整理，不代表逐一实测或源码安全审计。信息不明处会明确注明。
 
-[中文分类源数据](data/curation.tsv) · [公开快照](data/stars.json) · [可选离线搜索网页](index.html)（下载后打开；不是在线应用）
+[中文分类源数据](data/curation.tsv) · [README功能说明](data/functions.tsv) · [适用场景](data/usage.tsv) · [公开快照](data/stars.json) · [可选离线搜索网页](index.html)（下载后打开；不是在线应用）
 
 原项目代码及资料的许可归各自作者。本仓库只作索引。
 
