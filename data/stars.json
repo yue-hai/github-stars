@@ -1,6 +1,6 @@
 {
   "owner": "yue-hai",
-  "fetched_at": "2026-10-31T11:50:27.411598+00:00",
+  "fetched_at": "2026-10-31T11:51:42.387594+00:00",
   "scope": "public-stars",
   "items": [
     {
@@ -312,7 +312,7 @@
         "disabled": false,
         "language": "C",
         "pushed_at": "2026-10-26T22:10:06Z",
-        "stargazers_count": 153638
+        "stargazers_count": 153640
       }
     },
     {
@@ -1248,7 +1248,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2025-06-23T12:16:37Z",
-        "stargazers_count": 21347
+        "stargazers_count": 21346
       }
     },
     {
@@ -1282,7 +1282,7 @@
         "disabled": false,
         "language": "TypeScript",
         "pushed_at": "2026-10-20T10:19:31Z",
-        "stargazers_count": 88930
+        "stargazers_count": 88929
       }
     },
     {
