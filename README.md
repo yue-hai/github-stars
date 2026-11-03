@@ -1,6 +1,6 @@
 # 月海的 GitHub 收藏导航
 
-**100 个公开收藏 · 10 个分类** · 内容快照 2026-11-02（UTC）
+**101 个公开收藏 · 11 个分类** · 内容快照 2026-11-03（UTC）
 
 > 按用途找工具，直接在 GitHub 浏览。无需安装、登录第三方服务或部署应用。
 
@@ -48,10 +48,16 @@
   游戏工具 / 生活与社会资料<br>
   游戏任务助手与验证工具放在游戏分区；食谱、健康与社会资料放在参考资料分区。自动化、游戏 Mod 和生活参考各有使用边界，详见条目备注。
 
+- **[待分类](catalog/pending.md)** · 1 项<br>
+  待复核<br>
+  新收藏的临时入口，等待用途核对与分类。
+
 ## 最近收藏
 
 按 GitHub 收藏时间展示最近 8 项，不代表本次同步新增。
 
+- [for-the-zero/Free-LLM-Collection](https://github.com/for-the-zero/Free-LLM-Collection) — 免费大模型API合集 / Free LLM api Collection<br>
+  <sub>2026-11-03 · <a href="catalog/pending.md">待分类</a></sub>
 - [codewec/dashlit](https://github.com/codewec/dashlit) — 自托管链接导航、工具入口与服务状态首页<br>
   <sub>2026-10-28 · <a href="catalog/self-hosted.md">服务器与自托管</a></sub>
 - [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk) — 轻量的第三方酷安 Android 客户端<br>
@@ -66,8 +72,6 @@
   <sub>2026-08-25 · <a href="catalog/development.md">开发与技术资源</a></sub>
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — 基于插件体系的 AI Agent 工作环境<br>
   <sub>2026-08-19 · <a href="catalog/ai.md">AI 与智能助手</a></sub>
-- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) — 面向深度用户的大语言模型聊天前端<br>
-  <sub>2026-06-30 · <a href="catalog/ai.md">AI 与智能助手</a></sub>
 
 <details>
 <summary>维护状态提醒（6 项）</summary>

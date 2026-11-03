@@ -2,7 +2,7 @@
 
 [← 返回首页](../README.md)
 
-共 100 项。用浏览器 Ctrl/Cmd+F 搜索中文用途、项目名或标签。长备注可展开。
+共 101 项。用浏览器 Ctrl/Cmd+F 搜索中文用途、项目名或标签。长备注可展开。
 
 # AI 与智能助手
 
@@ -1113,5 +1113,20 @@
   <summary>备注与使用提醒</summary>
 
   资料可能陈旧，不作为当前法律或金融建议。
+
+  </details>
+
+# 待分类
+
+## 待复核
+
+- **[for-the-zero/Free-LLM-Collection](https://github.com/for-the-zero/Free-LLM-Collection)**
+
+  **主要功能**：免费大模型API合集 / Free LLM api Collection
+
+  <details>
+  <summary>备注与使用提醒</summary>
+
+  新项目尚未进行中文用途审核。
 
   </details>
