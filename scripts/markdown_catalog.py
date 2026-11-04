@@ -66,8 +66,19 @@ def write_catalog(root, snapshot, rows, categories):
             section += block
         (out / paths[c]).write_text(chr(10).join(body), encoding='utf-8')
         full += ['# ' + c, ''] + section
-    if not any(r['category'] == '待分类' for r in rows):
-        (out / 'pending.md').write_text('# 待分类'+chr(10)*2+'[← 返回首页](../README.md)'+chr(10)*2+'目前没有待分类项目。新收藏同步后会先显示在这里，等待补充中文用途和准确分类。'+chr(10), encoding='utf-8')
+    pending_rows = sorted((r for r in rows if r['category'] == '待分类'), key=lambda r: r['name'].casefold())
+    if pending_rows:
+        full += ['# 待分类', '', '以下项目已收藏，但尚未完成用途核对与正式分类。', '']
+        for r in pending_rows:
+            full += item_lines(r)
+    pending_page = ['# 待分类', '', '[← 返回首页](../README.md) · [全部收藏](all.md)', '']
+    if pending_rows:
+        pending_page += [f'共 {len(pending_rows)} 项 · 快照 {date}（UTC）。以下项目尚未完成用途核对与正式分类。', '']
+        for r in pending_rows:
+            pending_page += item_lines(r)
+    else:
+        pending_page += ['目前没有待分类项目。新收藏同步后会先显示在这里，等待补充中文用途和准确分类。', '']
+    (out / 'pending.md').write_text(chr(10).join(pending_page), encoding='utf-8')
     (out / 'all.md').write_text(chr(10).join(full), encoding='utf-8')
     recent = sorted(rows, key=lambda r: r['starred_at'], reverse=True)[:8]
     nav += ['## 最近收藏', '', '按 GitHub 收藏时间展示最近 8 项，不代表本次同步新增。', '']

@@ -17,6 +17,9 @@ class MarkdownTests(unittest.TestCase):
             all_text=(root/'catalog/all.md').read_text()
             for row in rows:
                 self.assertEqual(all_text.count('**['+row['name']+']'),1)
+            pending_names = [r['name'] for r in rows if r['category'] == '待分类']
+            for name in pending_names:
+                self.assertIn('**['+name+']', all_text)
             pages=list((root/'catalog').glob('*.md'))
             self.assertEqual(len(pages),12)
             home=(root/'README.md').read_text()
@@ -52,8 +55,12 @@ class MarkdownTests(unittest.TestCase):
             snapshot={'fetched_at':'2026-10-31'}
             md.write_catalog(root,snapshot,[row],build.CATEGORIES+['待分类'])
             self.assertIn('owner/new',(root/'catalog/pending.md').read_text())
+            self.assertIn('**[owner/new]',(root/'catalog/all.md').read_text())
             md.write_catalog(root,snapshot,[],build.CATEGORIES)
-            self.assertNotIn('owner/new',(root/'catalog/pending.md').read_text())
+            empty_pending = (root/'catalog/pending.md').read_text()
+            self.assertNotIn('owner/new',empty_pending)
+            self.assertIn('目前没有待分类项目',empty_pending)
+            self.assertEqual(len(list((root/'catalog').glob('*.md'))),12)
 
     def test_untrusted_summary_is_escaped(self):
         escaped=md.text('<script>*[bad]*</script>')
