@@ -1,6 +1,6 @@
 # 月海的 GitHub 收藏导航
 
-**101 个公开收藏 · 11 个分类** · 内容快照 2026-11-05（UTC）
+**101 个公开收藏 · 11 个分类** · 内容快照 2026-11-06（UTC）
 
 > 按用途找工具，直接在 GitHub 浏览。无需安装、登录第三方服务或部署应用。
 
@@ -74,10 +74,9 @@
   <sub>2026-08-19 · <a href="catalog/ai.md">AI 与智能助手</a></sub>
 
 <details>
-<summary>维护状态提醒（6 项）</summary>
+<summary>维护状态提醒（5 项）</summary>
 
 - [biliup/biliup-app](https://github.com/biliup/biliup-app)：**已归档**。详见[分类备注](catalog/media.md)。
-- [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)：**已归档**。详见[分类备注](catalog/development.md)。
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi)：**停止维护**。详见[分类备注](catalog/media.md)。
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)：**有限 LTS**。详见[分类备注](catalog/ai.md)。
 - [MRepoApp/magisk-modules-alt-repo](https://github.com/MRepoApp/magisk-modules-alt-repo)：**已归档**。详见[分类备注](catalog/devices.md)。

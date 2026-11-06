@@ -703,7 +703,7 @@
 
   **标签**：`.NET` · `配置管理`
 
-- **[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)** · **已归档**
+- **[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)**
 
   **主要功能**：Postman旧版中文化资源和安装说明，README指向后续注入器项目；不是官方中文发行版，传统替换方式不适配新版且仓库停更。
 
