@@ -2,7 +2,7 @@
 
 [← 返回首页](../README.md)
 
-共 101 项。用浏览器 Ctrl/Cmd+F 搜索中文用途、项目名或标签。长备注可展开。
+共 100 项。用浏览器 Ctrl/Cmd+F 搜索中文用途、项目名或标签。长备注可展开。
 
 # AI 与智能助手
 
@@ -993,21 +993,6 @@
   <summary>备注与使用提醒</summary>
 
   README 已核对；不是 Android 应用。旧客户端兼容性及账号风险需核对。
-
-  </details>
-
-- **[NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker)**
-
-  **主要功能**：NapCatQQ的Docker部署包装，简化容器启动与配置；只负责部署，不是独立AI机器人。
-
-  **适用场景**：已经决定使用 NapCat，想通过容器部署时查看；实际 QQ 协议能力来自 NapCatQQ，两个收藏分别对应部署层和功能层。
-
-  **标签**：`QQ` · `OneBot` · `Docker`
-
-  <details>
-  <summary>备注与使用提醒</summary>
-
-  与 NapCatQQ 配套，不是独立 AI 助手。
 
   </details>
 

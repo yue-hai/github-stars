@@ -8,5 +8,15 @@
         "name": "for-the-zero/Free-LLM-Collection"
       }
     ]
+  },
+  {
+    "at": "2026-11-12T08:19:31.183418+00:00",
+    "events": [
+      {
+        "type": "no_longer_publicly_visible",
+        "id": 777780359,
+        "name": "NapNeko/NapCat-Docker"
+      }
+    ]
   }
 ]

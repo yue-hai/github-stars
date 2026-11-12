@@ -2,7 +2,7 @@
 
 [← 返回首页](../README.md) · [全部收藏](all.md)
 
-共 1 项 · 快照 2026-11-11（UTC）。以下项目尚未完成用途核对与正式分类。
+共 1 项 · 快照 2026-11-12（UTC）。以下项目尚未完成用途核对与正式分类。
 
 - **[for-the-zero/Free-LLM-Collection](https://github.com/for-the-zero/Free-LLM-Collection)**
 
