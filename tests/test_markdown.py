@@ -36,11 +36,12 @@ class MarkdownTests(unittest.TestCase):
 
     def test_usage_coverage_and_multiline_layout(self):
         _, rows = build.load()
-        reviewed = [r for r in rows if r.get('usage')]
+        reviewed = [r for r in rows if r['category'] != '待分类']
+        pending = [r for r in rows if r['category'] == '待分类']
         self.assertTrue(reviewed)
-        self.assertTrue(all(len(r['usage']) >= 30 for r in reviewed))
+        self.assertTrue(all(len(r.get('usage', '')) >= 30 for r in reviewed))
         self.assertTrue(all(r.get('functions') for r in reviewed))
-        self.assertEqual(len(reviewed), 100)
+        self.assertTrue(all(not r.get('usage') and not r.get('functions') for r in pending))
         for row in reviewed:
             block = chr(10).join(md.item_lines(row))
             self.assertIn('**主要功能**：', block)
