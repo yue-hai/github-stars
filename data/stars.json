@@ -1,6 +1,6 @@
 {
   "owner": "yue-hai",
-  "fetched_at": "2026-11-20T08:32:19.446716+00:00",
+  "fetched_at": "2026-11-21T08:16:40.222076+00:00",
   "scope": "public-stars",
   "items": [
     {
@@ -22,7 +22,7 @@
         "disabled": false,
         "language": "C++",
         "pushed_at": "2026-11-17T13:51:42Z",
-        "stargazers_count": 12675
+        "stargazers_count": 12676
       }
     },
     {
@@ -43,8 +43,8 @@
         "archived": false,
         "disabled": false,
         "language": "TypeScript",
-        "pushed_at": "2026-11-20T07:44:09Z",
-        "stargazers_count": 37319
+        "pushed_at": "2026-11-21T02:20:48Z",
+        "stargazers_count": 37320
       }
     },
     {
@@ -65,7 +65,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2026-11-12T18:46:04Z",
-        "stargazers_count": 401924
+        "stargazers_count": 401981
       }
     },
     {
@@ -79,8 +79,8 @@
         "archived": false,
         "disabled": false,
         "language": "C#",
-        "pushed_at": "2026-11-20T08:21:19Z",
-        "stargazers_count": 15072
+        "pushed_at": "2026-11-21T07:48:19Z",
+        "stargazers_count": 15083
       }
     },
     {
@@ -112,8 +112,8 @@
         "archived": false,
         "disabled": false,
         "language": "HTML",
-        "pushed_at": "2026-11-20T04:37:18Z",
-        "stargazers_count": 143238
+        "pushed_at": "2026-11-20T17:11:37Z",
+        "stargazers_count": 143292
       }
     },
     {
@@ -146,8 +146,8 @@
         "archived": false,
         "disabled": false,
         "language": "Kotlin",
-        "pushed_at": "2026-11-20T00:27:57Z",
-        "stargazers_count": 1870
+        "pushed_at": "2026-11-20T23:52:03Z",
+        "stargazers_count": 1873
       }
     },
     {
@@ -175,8 +175,8 @@
         "archived": false,
         "disabled": false,
         "language": "Python",
-        "pushed_at": "2026-11-18T19:27:01Z",
-        "stargazers_count": 500393
+        "pushed_at": "2026-11-20T19:42:29Z",
+        "stargazers_count": 500547
       }
     },
     {
@@ -199,7 +199,7 @@
         "disabled": false,
         "language": "C#",
         "pushed_at": "2026-10-14T15:04:38Z",
-        "stargazers_count": 27974
+        "stargazers_count": 27980
       }
     },
     {
@@ -240,7 +240,7 @@
         "disabled": false,
         "language": "C",
         "pushed_at": "2026-10-17T12:56:56Z",
-        "stargazers_count": 7063
+        "stargazers_count": 7062
       }
     },
     {
@@ -267,7 +267,7 @@
         "disabled": false,
         "language": "C++",
         "pushed_at": "2026-11-05T03:14:58Z",
-        "stargazers_count": 20868
+        "stargazers_count": 20882
       }
     },
     {
@@ -287,7 +287,7 @@
         "disabled": false,
         "language": "Java",
         "pushed_at": "2026-10-31T06:22:45Z",
-        "stargazers_count": 4592
+        "stargazers_count": 4591
       }
     },
     {
@@ -312,7 +312,7 @@
         "disabled": false,
         "language": "C",
         "pushed_at": "2026-11-19T20:04:00Z",
-        "stargazers_count": 155251
+        "stargazers_count": 155302
       }
     },
     {
@@ -338,8 +338,8 @@
         "archived": false,
         "disabled": false,
         "language": "TypeScript",
-        "pushed_at": "2026-11-20T05:38:25Z",
-        "stargazers_count": 58551
+        "pushed_at": "2026-11-21T02:13:34Z",
+        "stargazers_count": 58606
       }
     },
     {
@@ -369,7 +369,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2026-10-24T07:01:38Z",
-        "stargazers_count": 2352
+        "stargazers_count": 2353
       }
     },
     {
@@ -463,7 +463,7 @@
         "disabled": false,
         "language": "C",
         "pushed_at": "2025-03-11T19:12:09Z",
-        "stargazers_count": 32718
+        "stargazers_count": 32724
       }
     },
     {
@@ -489,7 +489,7 @@
         "disabled": false,
         "language": "Go",
         "pushed_at": "2026-11-20T07:33:23Z",
-        "stargazers_count": 15876
+        "stargazers_count": 15879
       }
     },
     {
@@ -543,7 +543,7 @@
         "disabled": false,
         "language": "Batchfile",
         "pushed_at": "2026-11-11T14:30:12Z",
-        "stargazers_count": 200236
+        "stargazers_count": 200341
       }
     },
     {
@@ -564,7 +564,7 @@
         "disabled": false,
         "language": null,
         "pushed_at": "2026-11-17T15:15:21Z",
-        "stargazers_count": 104146
+        "stargazers_count": 104168
       }
     },
     {
@@ -605,7 +605,7 @@
         "disabled": false,
         "language": "Go",
         "pushed_at": "2026-11-17T12:42:13Z",
-        "stargazers_count": 17579
+        "stargazers_count": 17585
       }
     },
     {
@@ -623,7 +623,7 @@
         "disabled": false,
         "language": "Java",
         "pushed_at": "2026-10-14T04:37:33Z",
-        "stargazers_count": 25563
+        "stargazers_count": 25577
       }
     },
     {
@@ -638,7 +638,7 @@
         "disabled": false,
         "language": null,
         "pushed_at": "2026-07-06T02:20:42Z",
-        "stargazers_count": 24325
+        "stargazers_count": 24323
       }
     },
     {
@@ -660,7 +660,7 @@
         "disabled": false,
         "language": "Lua",
         "pushed_at": "2026-11-11T10:50:25Z",
-        "stargazers_count": 20277
+        "stargazers_count": 20295
       }
     },
     {
@@ -678,7 +678,7 @@
         "disabled": false,
         "language": "TypeScript",
         "pushed_at": "2026-11-08T11:06:04Z",
-        "stargazers_count": 2039
+        "stargazers_count": 2043
       }
     },
     {
@@ -747,8 +747,8 @@
         "archived": false,
         "disabled": false,
         "language": "C++",
-        "pushed_at": "2026-11-20T04:23:16Z",
-        "stargazers_count": 24665
+        "pushed_at": "2026-11-21T07:47:10Z",
+        "stargazers_count": 24693
       }
     },
     {
@@ -828,8 +828,8 @@
         "archived": false,
         "disabled": false,
         "language": "Dart",
-        "pushed_at": "2026-11-20T08:04:15Z",
-        "stargazers_count": 9050
+        "pushed_at": "2026-11-21T08:00:48Z",
+        "stargazers_count": 9051
       }
     },
     {
@@ -913,8 +913,8 @@
         "archived": false,
         "disabled": false,
         "language": "TypeScript",
-        "pushed_at": "2026-11-19T14:10:12Z",
-        "stargazers_count": 5264
+        "pushed_at": "2026-11-21T02:13:53Z",
+        "stargazers_count": 5265
       }
     },
     {
@@ -949,7 +949,7 @@
         "disabled": false,
         "language": "Go",
         "pushed_at": "2026-09-12T20:20:53Z",
-        "stargazers_count": 2072
+        "stargazers_count": 2074
       }
     },
     {
@@ -1003,7 +1003,7 @@
         "disabled": false,
         "language": "HTML",
         "pushed_at": "2026-10-22T05:56:54Z",
-        "stargazers_count": 36161
+        "stargazers_count": 36172
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "disabled": false,
         "language": "Kotlin",
         "pushed_at": "2026-11-20T00:27:17Z",
-        "stargazers_count": 49851
+        "stargazers_count": 49914
       }
     },
     {
@@ -1101,7 +1101,7 @@
         "disabled": false,
         "language": "Lua",
         "pushed_at": "2026-11-10T03:39:39Z",
-        "stargazers_count": 1806
+        "stargazers_count": 1807
       }
     },
     {
@@ -1181,7 +1181,7 @@
         "disabled": false,
         "language": "TypeScript",
         "pushed_at": "2026-10-28T03:01:45Z",
-        "stargazers_count": 5943
+        "stargazers_count": 5947
       }
     },
     {
@@ -1214,7 +1214,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2026-11-19T22:21:22Z",
-        "stargazers_count": 47234
+        "stargazers_count": 47286
       }
     },
     {
@@ -1233,7 +1233,7 @@
         "disabled": false,
         "language": "JavaScript",
         "pushed_at": "2026-11-20T03:57:59Z",
-        "stargazers_count": 35856
+        "stargazers_count": 35894
       }
     },
     {
@@ -1255,7 +1255,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2025-06-23T12:16:37Z",
-        "stargazers_count": 21372
+        "stargazers_count": 21373
       }
     },
     {
@@ -1289,7 +1289,7 @@
         "disabled": false,
         "language": "TypeScript",
         "pushed_at": "2026-10-20T10:19:31Z",
-        "stargazers_count": 88986
+        "stargazers_count": 88982
       }
     },
     {
@@ -1379,7 +1379,7 @@
         "disabled": false,
         "language": "GLSL",
         "pushed_at": "2025-11-26T04:29:26Z",
-        "stargazers_count": 5218
+        "stargazers_count": 5219
       }
     },
     {
@@ -1394,7 +1394,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2025-12-01T19:17:07Z",
-        "stargazers_count": 53965
+        "stargazers_count": 53966
       }
     },
     {
@@ -1418,8 +1418,8 @@
         "archived": false,
         "disabled": false,
         "language": "Dart",
-        "pushed_at": "2026-11-19T08:03:41Z",
-        "stargazers_count": 64308
+        "pushed_at": "2026-11-20T14:19:40Z",
+        "stargazers_count": 64491
       }
     },
     {
@@ -1473,7 +1473,7 @@
         "disabled": false,
         "language": "Kotlin",
         "pushed_at": "2026-11-19T03:14:18Z",
-        "stargazers_count": 2713
+        "stargazers_count": 2716
       }
     },
     {
@@ -1493,7 +1493,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2025-11-07T20:31:24Z",
-        "stargazers_count": 4645
+        "stargazers_count": 4646
       }
     },
     {
@@ -1508,7 +1508,7 @@
         "disabled": false,
         "language": "C#",
         "pushed_at": "2026-09-23T05:38:25Z",
-        "stargazers_count": 726
+        "stargazers_count": 725
       }
     },
     {
@@ -1532,7 +1532,7 @@
         "disabled": false,
         "language": "Shell",
         "pushed_at": "2026-11-13T20:16:49Z",
-        "stargazers_count": 54233
+        "stargazers_count": 54244
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "disabled": false,
         "language": null,
         "pushed_at": "2026-11-12T03:26:19Z",
-        "stargazers_count": 12890
+        "stargazers_count": 12897
       }
     },
     {
@@ -1622,7 +1622,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2026-10-01T08:12:19Z",
-        "stargazers_count": 339
+        "stargazers_count": 340
       }
     },
     {
@@ -1642,8 +1642,8 @@
         "archived": false,
         "disabled": false,
         "language": "Kotlin",
-        "pushed_at": "2026-11-14T11:15:07Z",
-        "stargazers_count": 3791
+        "pushed_at": "2026-11-20T12:20:13Z",
+        "stargazers_count": 3796
       }
     },
     {
@@ -1672,8 +1672,8 @@
         "archived": false,
         "disabled": false,
         "language": "Python",
-        "pushed_at": "2026-11-20T07:48:22Z",
-        "stargazers_count": 1571
+        "pushed_at": "2026-11-20T15:13:30Z",
+        "stargazers_count": 1572
       }
     },
     {
@@ -1688,7 +1688,7 @@
         "disabled": false,
         "language": "HTML",
         "pushed_at": "2026-10-12T17:37:14Z",
-        "stargazers_count": 4154
+        "stargazers_count": 4155
       }
     },
     {
@@ -1710,7 +1710,7 @@
         "disabled": false,
         "language": null,
         "pushed_at": "2026-06-13T12:44:49Z",
-        "stargazers_count": 9866
+        "stargazers_count": 9867
       }
     },
     {
@@ -1724,8 +1724,8 @@
         "archived": false,
         "disabled": false,
         "language": "JavaScript",
-        "pushed_at": "2026-11-20T07:13:54Z",
-        "stargazers_count": 5139
+        "pushed_at": "2026-11-20T22:07:48Z",
+        "stargazers_count": 5140
       }
     },
     {
@@ -1748,7 +1748,7 @@
         "disabled": false,
         "language": "Python",
         "pushed_at": "2026-09-28T06:45:47Z",
-        "stargazers_count": 22356
+        "stargazers_count": 22357
       }
     },
     {
@@ -1781,7 +1781,7 @@
         "disabled": false,
         "language": null,
         "pushed_at": "2026-11-17T05:21:40Z",
-        "stargazers_count": 98289
+        "stargazers_count": 98337
       }
     },
     {
@@ -1858,7 +1858,7 @@
         "disabled": false,
         "language": "Visual Basic .NET",
         "pushed_at": "2026-11-18T04:42:02Z",
-        "stargazers_count": 8546
+        "stargazers_count": 8551
       }
     },
     {
@@ -1877,8 +1877,8 @@
         "archived": false,
         "disabled": false,
         "language": "Go",
-        "pushed_at": "2026-11-20T04:55:21Z",
-        "stargazers_count": 25723
+        "pushed_at": "2026-11-21T06:32:09Z",
+        "stargazers_count": 25735
       }
     },
     {
@@ -1928,8 +1928,8 @@
         "archived": false,
         "disabled": false,
         "language": "Python",
-        "pushed_at": "2026-11-20T08:22:44Z",
-        "stargazers_count": 50222
+        "pushed_at": "2026-11-21T02:56:37Z",
+        "stargazers_count": 50247
       }
     },
     {
@@ -1943,8 +1943,8 @@
         "archived": false,
         "disabled": false,
         "language": "Kotlin",
-        "pushed_at": "2026-11-19T19:44:15Z",
-        "stargazers_count": 1893
+        "pushed_at": "2026-11-20T22:55:01Z",
+        "stargazers_count": 1898
       }
     },
     {
@@ -1972,8 +1972,8 @@
         "archived": false,
         "disabled": false,
         "language": "Rust",
-        "pushed_at": "2026-11-20T03:23:34Z",
-        "stargazers_count": 25940
+        "pushed_at": "2026-11-21T03:22:51Z",
+        "stargazers_count": 25978
       }
     },
     {
@@ -2008,7 +2008,7 @@
         "disabled": false,
         "language": "TypeScript",
         "pushed_at": "2026-11-18T12:48:10Z",
-        "stargazers_count": 284433
+        "stargazers_count": 284826
       }
     },
     {
@@ -2028,8 +2028,8 @@
         "archived": false,
         "disabled": false,
         "language": "JavaScript",
-        "pushed_at": "2026-11-19T23:21:53Z",
-        "stargazers_count": 25245
+        "pushed_at": "2026-11-20T23:21:21Z",
+        "stargazers_count": 25303
       }
     },
     {
@@ -2044,7 +2044,7 @@
         "disabled": false,
         "language": "Dart",
         "pushed_at": "2026-11-18T10:01:59Z",
-        "stargazers_count": 992
+        "stargazers_count": 1003
       }
     }
   ]
