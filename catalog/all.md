@@ -493,14 +493,6 @@
 
 ## 代理客户端
 
-- **[chen08209/FlClash](https://github.com/chen08209/FlClash)**
-
-  **主要功能**：ClashMeta/mihomo多平台代理客户端，支持配置导入、规则、代理组、延迟测试、系统代理/TUN、DNS日志及备份；需自行提供服务配置，平台条件不同。
-
-  **适用场景**：希望在多个操作系统上使用相近的 ClashMeta 代理客户端体验时参考；仍需配置合法可用的代理服务与规则。
-
-  **标签**：`Clash` · `跨平台`
-
 - **[MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)**
 
   **主要功能**：Clash.Meta Android GUI，用于配置和运行代理内核、导入配置文件并通过Intent控制启停。最低Android 5、推荐7+，支持多ABI；内核依赖Clash.Meta，源码构建需Android/Go/CMake工具链。
@@ -516,6 +508,14 @@
   **适用场景**：希望通过 Web 界面管理 Xray 相关代理配置，或研究透明代理部署时参考；运行条件因平台和权限不同而异。
 
   **标签**：`Xray` · `代理`
+
+- **[Vialibrex/FlClash](https://github.com/Vialibrex/FlClash)**
+
+  **主要功能**：ClashMeta/mihomo多平台代理客户端，支持配置导入、规则、代理组、延迟测试、系统代理/TUN、DNS日志及备份；需自行提供服务配置，平台条件不同。
+
+  **适用场景**：希望在多个操作系统上使用相近的 ClashMeta 代理客户端体验时参考；仍需配置合法可用的代理服务与规则。
+
+  **标签**：`Clash` · `跨平台`
 
 ## Hosts 与连通性
 

@@ -18,5 +18,16 @@
         "name": "NapNeko/NapCat-Docker"
       }
     ]
+  },
+  {
+    "at": "2026-11-28T08:54:45.419308+00:00",
+    "events": [
+      {
+        "type": "renamed",
+        "id": 678716433,
+        "from": "chen08209/FlClash",
+        "name": "Vialibrex/FlClash"
+      }
+    ]
   }
 ]
